@@ -1,9 +1,14 @@
-# 实验输出文件（生成的）
-*.docx
-*.xlsx
-*.json
+# 实验输出文件（生成的，排除）
+*.tmp
+*.log
+__pycache__/
+*.pyc
 
-# 实验输出文件（手动编写的保留）
+# 实验素材文件（保留）
+!materials/**/*
+!experiments/**/materials/**/*
+
+# 实验文档（手动编写的保留）
 *.md
 !README.md
 !experiments/**/*-MANUAL.md
@@ -11,6 +16,12 @@
 !experiments/**/*-PLAN.md
 !skills/*.yaml
 !agents/**/*
+
+# 实验输出（生成的，排除）
+experiments/**/extracted_*.json
+experiments/**/search_*.json
+experiments/**/rfp_*.docx
+experiments/**/rfp_*.xlsx
 
 # Python
 __pycache__/
