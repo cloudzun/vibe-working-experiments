@@ -1,0 +1,16 @@
+# 实验输出文件
+*.docx
+*.xlsx
+*.json
+*.md
+!README.md
+!RFP-EXPLORATION-PLAN.md
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 临时文件
+*.tmp
+*.log
