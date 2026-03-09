@@ -1,33 +1,79 @@
-# 实验输出文件（生成的，排除）
-*.tmp
-*.log
-__pycache__/
-*.pyc
+# 优化后的 .gitignore（v2.0）
+# 保留：Skill、手册、脚本、素材
+# 排除：生成的输出、临时文件、缓存
 
-# 实验素材文件（保留）
-!materials/**/*
-!experiments/**/materials/**/*
+# ========== 保留文件 ==========
 
-# 实验文档（手动编写的保留）
-*.md
-!README.md
+# Skills 定义（YAML）- 必须保留
+!experiments/**/skills/**/*.yaml
+!skills/**/*.yaml
+
+# 实验手册和文档 - 必须保留
 !experiments/**/*-MANUAL.md
 !experiments/**/*-LOG.md
+!experiments/**/*-LOG-REVISED.md
 !experiments/**/*-PLAN.md
-!skills/*.yaml
+!experiments/**/*-WORKFLOW.md
+!README*.md
+
+# 脚本代码 - 必须保留
+!experiments/**/scripts/**/*.py
+!scripts/**/*.py
+
+# 素材文件 - 必须保留
+!experiments/**/materials/**/*
+!experiments/**/materials/**/*.docx
+!experiments/**/materials/**/*.xlsx
+!materials/**/*
+
+# Agent 定义 - 必须保留
 !agents/**/*
+!agents/**/*.md
 
-# 实验输出（生成的，排除）
-experiments/**/extracted_*.json
-experiments/**/search_*.json
-experiments/**/rfp_*.docx
-experiments/**/rfp_*.xlsx
+# ========== 排除文件 ==========
 
-# Python
+# Python 缓存
 __pycache__/
 *.pyc
 *.pyo
+*.pyd
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
 
-# 临时文件
+# 生成的输出文件
+experiments/**/extracted_*.json
+experiments/**/search_*.json
+experiments/**/outputs/**/*.docx
+experiments/**/outputs/**/*.xlsx
+*/outputs/**/*
+
+# 临时和日志文件
 *.tmp
 *.log
+*.bak
+*~
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 操作系统
+Thumbs.db
+.DS_Store
