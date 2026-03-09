@@ -1,0 +1,132 @@
+{
+  "test_result": "success",
+  "total_requirements": 21,
+  "requirements": [
+    {
+      "id": 1,
+      "text": "Deploy a scalable energy management platform for hotels and resorts.",
+      "type": "requirement",
+      "section": "List Bullet"
+    },
+    {
+      "id": 2,
+      "text": "Integrate IoT sensors, analytics, and automated controls for HVAC, lighting, and plug loads.",
+      "type": "requirement",
+      "section": "List Bullet"
+    },
+    {
+      "id": 3,
+      "text": "Achieve measurable energy savings and support sustainability certifications (e.g., LEED, ENERGY STAR).",
+      "type": "requirement",
+      "section": "List Bullet"
+    },
+    {
+      "id": 4,
+      "text": "Enable real-time monitoring, reporting, and predictive maintenance.",
+      "type": "requirement",
+      "section": "List Bullet"
+    },
+    {
+      "id": 5,
+      "text": "Supply and install all necessary hardware and software.",
+      "type": "requirement",
+      "section": "List Bullet"
+    },
+    {
+      "id": 6,
+      "text": "Integrate with existing property management and building management systems.",
+      "type": "requirement",
+      "section": "List Bullet"
+    },
+    {
+      "id": 7,
+      "text": "Provide training and ongoing support for property staff.",
+      "type": "requirement",
+      "section": "List Bullet"
+    },
+    {
+      "id": 8,
+      "text": "Ensure compliance with relevant industry standards and local regulations.",
+      "type": "requirement",
+      "section": "List Bullet"
+    },
+    {
+      "id": 9,
+      "text": "Support for wireless IoT sensors (temperature, occupancy, humidity, light, CO2).",
+      "type": "requirement",
+      "section": "List Bullet"
+    },
+    {
+      "id": 10,
+      "text": "Cloud-based management portal with mobile access.",
+      "type": "requirement",
+      "section": "List Bullet"
+    },
+    {
+      "id": 11,
+      "text": "Secure communications (TLS/SSL), data encryption, and ISO 27001 compliance.",
+      "type": "requirement",
+      "section": "List Bullet"
+    },
+    {
+      "id": 12,
+      "text": "Open API for third-party integrations.",
+      "type": "requirement",
+      "section": "List Bullet"
+    },
+    {
+      "id": 13,
+      "text": "Automated demand response and sustainability reporting features.",
+      "type": "requirement",
+      "section": "List Bullet"
+    },
+    {
+      "id": 14,
+      "text": "Demonstrated experience in deploying energy management solutions for hospitality clients.",
+      "type": "requirement",
+      "section": "List Bullet"
+    },
+    {
+      "id": 15,
+      "text": "References from at least three similar projects.",
+      "type": "requirement",
+      "section": "List Bullet"
+    },
+    {
+      "id": 16,
+      "text": "Ability to provide ongoing support and maintenance.",
+      "type": "requirement",
+      "section": "List Bullet"
+    },
+    {
+      "id": 17,
+      "text": "Technical compliance and innovation",
+      "type": "requirement",
+      "section": "List Bullet"
+    },
+    {
+      "id": 18,
+      "text": "Cost-effectiveness and ROI",
+      "type": "requirement",
+      "section": "List Bullet"
+    },
+    {
+      "id": 19,
+      "text": "Vendor experience and references",
+      "type": "requirement",
+      "section": "List Bullet"
+    },
+    {
+      "id": 20,
+      "text": "Support and training offerings",
+      "type": "requirement",
+      "section": "List Bullet"
+    },
+    {
+      "id": 21,
+      "text": "Sustainability impact",
+      "type": "requirement",
+      "section": "List Bullet"
+    }
+  ]
+}
