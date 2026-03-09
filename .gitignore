@@ -1,10 +1,16 @@
-# 实验输出文件
+# 实验输出文件（生成的）
 *.docx
 *.xlsx
 *.json
+
+# 实验输出文件（手动编写的保留）
 *.md
 !README.md
-!RFP-EXPLORATION-PLAN.md
+!experiments/**/*-MANUAL.md
+!experiments/**/*-LOG.md
+!experiments/**/*-PLAN.md
+!skills/*.yaml
+!agents/**/*
 
 # Python
 __pycache__/
