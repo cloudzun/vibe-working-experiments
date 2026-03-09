@@ -1,10 +1,29 @@
-# RFP Response Agent - 完整实验手册 v2.0
+# RFP Response Agent - 完整实验手册 v3.0
+
+> **更新日期**: 2026-03-09  
+> **适用平台**: OpenClaw + OpenCode  
+> **状态**: ✅ 生产就绪
+
+---
 
 ## 📋 概述
 
 这是一个完整的投标（RFP）响应工作流实验，演示如何使用三个协作 Skill 生成专业的投标文档。
 
 **工作流**：RFP 分析 → 产品文档检索 → 投标文档生成
+
+### ⚠️ 重要说明：平台差异
+
+本实验提供**两种 Skill 格式**，分别适用于不同平台：
+
+| 平台 | Skill 格式 | 位置 |
+|------|-----------|------|
+| **OpenClaw** | `.yaml` 文件 | `skills/*.yaml` |
+| **OpenCode** | `SKILL.md` 文件 | `skills-opencode/*/SKILL.md` |
+
+**本次实测使用 OpenCode**，请参考「OpenCode 使用方式」章节。
+
+**详细平台对照**: 参见 `SKILL-PLATFORMS.md`
 
 ---
 
@@ -21,19 +40,28 @@ experiments/rfp-simple/
 │   ├── EcoSense_360_Compliance_Certification_Summary.docx
 │   └── Fabrikam_Historical_RFP_Data.xlsx
 │
-├── skills/                       # Skill 定义（已优化）
-│   ├── rfp-analyzer.yaml         # Skill 1: 分析 RFP，提取需求
-│   ├── knowledge-searcher.yaml   # Skill 2: 在产品文档中检索答案
-│   └── response-generator.yaml   # Skill 3: 生成投标文档
+├── skills/                       # OpenClaw Skill 定义
+│   ├── rfp-analyzer.yaml
+│   ├── knowledge-searcher.yaml
+│   └── response-generator.yaml
 │
-├── scripts/                      # Python 脚本（已优化路径）
+├── skills-opencode/              # OpenCode Skill 定义 ⭐ 新增
+│   ├── rfp-analyzer/
+│   │   └── SKILL.md
+│   ├── knowledge-searcher/
+│   │   └── SKILL.md
+│   └── response-generator/
+│       └── SKILL.md
+│
+├── scripts/                      # Python 脚本
 │   ├── extract_questions.py      # RFP 分析脚本（智能路径检测）
 │   └── extracted_requirements.json
 │
 ├── outputs/                      # 输出文件（运行后生成）
 │   └── VanArsdel_RFP_Response.docx
 │
-├── README-WORKFLOW.md            # 工作流说明
+├── README-WORKFLOW.md            # 本工作流说明
+├── SKILL-PLATFORMS.md            # ⭐ 平台对照说明（新增）
 └── [其他文档]
 ```
 
@@ -41,22 +69,73 @@ experiments/rfp-simple/
 
 ## 🚀 快速开始
 
-### 前置条件
+### ⚠️ 选择你的平台
+
+本实验支持两个平台，请选择其中一个：
+
+| 平台 | 推荐场景 | 使用方式 |
+|------|---------|---------|
+| **OpenCode** | ✅ 本次实测平台 | 自动触发 Skill，自然语言交互 |
+| **OpenClaw** | 已有 OpenClaw 部署 | `/skill load` 加载 YAML Skill |
+
+---
+
+### OpenCode 使用方式（本次实测）⭐
+
+#### 方式 A: 全局安装 Skill（推荐）
+
+```bash
+# 1. 安装 Skill 到全局目录
+cp -r experiments/rfp-simple/skills-opencode/rfp-analyzer ~/.config/opencode/skills/
+cp -r experiments/rfp-simple/skills-opencode/knowledge-searcher ~/.config/opencode/skills/
+cp -r experiments/rfp-simple/skills-opencode/response-generator ~/.config/opencode/skills/
+
+# 2. 进入实验目录
+cd experiments/rfp-simple
+
+# 3. 在 OpenCode 中自然语言交互
+```
+
+**交互示例**：
+
+```
+用户：请分析 materials/VanArsdel_RFP.docx，找出所有的需求
+AI: [自动调用 rfp-analyzer] ✅ 提取到 20 个需求
+
+用户：请在产品文档中检索这些需求的答案
+AI: [自动调用 knowledge-searcher] ✅ 找到 17 个答案
+
+用户：根据上面的需求和答案，生成投标响应文档
+AI: [自动调用 response-generator] ✅ 生成 outputs/VanArsdel_RFP_Response.docx
+```
+
+#### 方式 B: 项目目录使用（无需安装）
 
 ```bash
 # 1. 进入实验目录
 cd experiments/rfp-simple
 
-# 2. 确认 Python 依赖已安装
-pip list | grep -E "python-docx|openpyxl"
-
-# 如果未安装，执行：
-pip install python-docx openpyxl
+# 2. 在 OpenCode 中参考 SKILL.md 执行
+用户：参考 skills-opencode/rfp-analyzer/SKILL.md，分析 RFP 文件
 ```
 
-### 执行步骤
+#### 方式 C: 手动执行工作流（最简单）
 
-#### **Step 1: 分析 RFP，提取需求**
+```bash
+# 1. 进入实验目录
+cd experiments/rfp-simple
+
+# 2. 在 OpenCode 中逐步执行
+用户：请分析 materials/VanArsdel_RFP.docx，找出所有的需求
+用户：请在产品文档中检索这些需求的答案
+用户：根据上面的需求和答案，生成投标响应文档
+```
+
+---
+
+### OpenClaw 使用方式
+
+#### Step 1: 分析 RFP，提取需求
 
 ```bash
 # 在实验目录运行脚本
