@@ -1,0 +1,7 @@
+# 依赖包
+
+# 核心（可选强化）—— 读取 Word 文档 (.docx)
+python-docx>=1.1.0
+
+# 核心（可选强化）—— 读取 Excel 文件 (.xlsx)，用于 support-case-analyzer
+openpyxl>=3.1.0

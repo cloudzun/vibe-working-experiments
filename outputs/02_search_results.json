@@ -1,0 +1,1287 @@
+{
+  "kb_path": "materials",
+  "searched_at": "2026-03-09T20:04:11.532000",
+  "documents": [
+    "EcoSense_360_Customer_Case_Study.docx",
+    "EcoSense_360_Customer_Case_Study.txt",
+    "EcoSense_360_Sample_Pricing_Sheet.docx",
+    "EcoSense_360_Sample_Pricing_Sheet.txt",
+    "EcoSense_360_Technical_Specifications.docx",
+    "EcoSense_360_Technical_Specifications.txt",
+    "VanArsdel_RFP_Questions.md"
+  ],
+  "results": [
+    {
+      "question_id": "Q-001",
+      "question_text": "Deploy a scalable energy management platform for hotels and resorts.",
+      "question_type": "hard_req",
+      "keywords": [
+        "platform",
+        "resorts",
+        "hotels",
+        "scalable",
+        "deploy",
+        "management",
+        "energy"
+      ],
+      "status": "full_match",
+      "status_icon": "✅",
+      "status_label": "完全匹配",
+      "source_doc": "VanArsdel_RFP_Questions.md",
+      "source_section": "|------|------|---------|-------------|--------|",
+      "best_quote": "| Q-001 | 🟡 | \"Deploy a scalable energy management platform for hotels and resorts\" | 需说明平台可扩展架构设计 | 高 | | Q-002 | 🟡 | \"Integrate IoT sensors, analytics, and automated controls for HVAC, lighting, and plug loads\" | 需展示 HVAC/照明/插座负载的集成方案 | 高 | | Q-003 | 🟢 | \"Achieve measurable energy savings and support sustainability certifications (e.g., LEED, ENE",
+      "top_hits": [
+        {
+          "doc": "VanArsdel_RFP_Questions.md",
+          "section": "|------|------|---------|-------------|--------|",
+          "text": "| Q-001 | 🟡 | \"Deploy a scalable energy management platform for hotels and resorts\" | 需说明平台可扩展架构设计 | 高 | | Q-002 | 🟡 | \"Integrate IoT sensors, analytics, and automated controls for HVAC, lighting, and plug loads\" | 需展示 HVAC/照明/插座负载的集成方案 | 高 | | Q-003 | 🟢 | \"Achieve measurable energy savings and support sustainability certifications (e.g., LEED, ENERGY STAR)\" | 需提供节能数据和认证支持能力 | 中 | | Q-004 | 🟡 | \"Enable real-time monitoring, reporting, and predictive maintenance\" | 需展示实时监控和预测性维护功能 | 高 |",
+          "score": 1.0,
+          "matched": [
+            "platform",
+            "resorts",
+            "hotels",
+            "scalable",
+            "deploy",
+            "management",
+            "energy"
+          ]
+        },
+        {
+          "doc": "EcoSense_360_Technical_Specifications.docx",
+          "section": "1. Product Overview",
+          "text": "EcoSense 360 is Fabrikam’s next-generation smart energy management platform designed for hotels, resorts, and hospitality venues. It integrates advanced IoT sensors, AI-driven analytics, and cloud-based controls to optimize energy usage, reduce costs, and support sustainability goals.",
+          "score": 0.714,
+          "matched": [
+            "platform",
+            "resorts",
+            "hotels",
+            "management",
+            "energy"
+          ]
+        },
+        {
+          "doc": "EcoSense_360_Technical_Specifications.txt",
+          "section": "1. Product Overview",
+          "text": "EcoSense 360 is Fabrikam’s next-generation smart energy management platform designed for hotels, resorts, and hospitality venues. It integrates advanced IoT sensors, AI-driven analytics, and cloud-based controls to optimize energy usage, reduce costs, and support sustainability goals.",
+          "score": 0.714,
+          "matched": [
+            "platform",
+            "resorts",
+            "hotels",
+            "management",
+            "energy"
+          ]
+        }
+      ],
+      "answer_draft": "我司产品完全满足此项要求，具体如下：\n\n| Q-001 | 🟡 | \"Deploy a scalable energy management platform for hotels and resorts\" | 需说明平台可扩展架构设计 | 高 | | Q-002 | 🟡 | \"Integrate IoT sensors, analytics, and automated controls for HVAC, lighting, and plug loads\" | 需展示 HVAC/照明/插座负载的集成方案 | 高 | | Q-003 | 🟢 | \"Achieve measurable energy savings and supp"
+    },
+    {
+      "question_id": "Q-002",
+      "question_text": "Integrate IoT sensors, analytics, and automated controls for HVAC, lighting, and plug loads.",
+      "question_type": "hard_req",
+      "keywords": [
+        "analytics",
+        "controls",
+        "iot",
+        "plug",
+        "integrate",
+        "lighting",
+        "loads",
+        "sensors",
+        "hvac",
+        "automated"
+      ],
+      "status": "full_match",
+      "status_icon": "✅",
+      "status_label": "完全匹配",
+      "source_doc": "VanArsdel_RFP_Questions.md",
+      "source_section": "|------|------|---------|-------------|--------|",
+      "best_quote": "| Q-001 | 🟡 | \"Deploy a scalable energy management platform for hotels and resorts\" | 需说明平台可扩展架构设计 | 高 | | Q-002 | 🟡 | \"Integrate IoT sensors, analytics, and automated controls for HVAC, lighting, and plug loads\" | 需展示 HVAC/照明/插座负载的集成方案 | 高 | | Q-003 | 🟢 | \"Achieve measurable energy savings and support sustainability certifications (e.g., LEED, ENE",
+      "top_hits": [
+        {
+          "doc": "VanArsdel_RFP_Questions.md",
+          "section": "|------|------|---------|-------------|--------|",
+          "text": "| Q-001 | 🟡 | \"Deploy a scalable energy management platform for hotels and resorts\" | 需说明平台可扩展架构设计 | 高 | | Q-002 | 🟡 | \"Integrate IoT sensors, analytics, and automated controls for HVAC, lighting, and plug loads\" | 需展示 HVAC/照明/插座负载的集成方案 | 高 | | Q-003 | 🟢 | \"Achieve measurable energy savings and support sustainability certifications (e.g., LEED, ENERGY STAR)\" | 需提供节能数据和认证支持能力 | 中 | | Q-004 | 🟡 | \"Enable real-time monitoring, reporting, and predictive maintenance\" | 需展示实时监控和预测性维护功能 | 高 |",
+          "score": 1.0,
+          "matched": [
+            "analytics",
+            "controls",
+            "iot",
+            "plug",
+            "integrate",
+            "lighting",
+            "loads",
+            "sensors",
+            "hvac",
+            "automated"
+          ]
+        },
+        {
+          "doc": "EcoSense_360_Customer_Case_Study.docx",
+          "section": "Document",
+          "text": "EcoSense 360 Customer Case Study Transforming Energy Management at the Grand Vista Resort Background The Grand Vista Resort is a 200-room, midscale property located in Orlando, Florida, catering to both leisure and business travelers. Facing rising energy costs, sustainability mandates, and the need to enhance guest comfort, the resort’s management sought a modern solution to optimize energy usage and support their green initiatives. Challenges High and unpredictable energy expenses (over $250,000 annually) Inefficient HVAC and lighting controls leading to wasted energy Difficulty meeting sustainability certification requirements (LEED, ENERGY STAR) Need for real-time monitoring and actionable insights Solution: EcoSense 360 Implementation In early 2025, Grand Vista Resort partnered with Fabrikam to deploy the EcoSense 360 energy management platform. The solution included: Wireless IoT sensors for temperature, occupancy, humidity, and lighting Smart thermostats and automated lighting controls in all guest rooms and public areas Cloud-based management portal for real-time monitoring and analytics Integration with the property’s existing PMS and BMS systems Sustainability reporting tools for certification compliance Results & Impact Energy Savings & ROI Achieved a 32% reduction in annual energy costs (saving $80,000/year) Typical payback period: 2.5 years Operational Efficiency Automated controls reduced manual intervention by 80% Predictive maintenance alerts minimized equipment downtime Sustainability & Compliance Earned LEED Silver and ENERGY STAR certifications within 12 months Reduced carbon footprint by 110 metric tons/year Guest Experience Personalized room comfort settings increased guest satisfaction scores by 18% Real-time occupancy-based controls improved overall comfort and reduced complaints Key Metrics Testimonial \"EcoSense 360 has transformed our approach to energy management. We’ve cut costs, improved guest comfort, and achieved our sustainability goals faster than expected. The real-time insights and automation have made our operations more efficient and future-ready.\" — Jamie Lee, General Manager, Grand Vista Resort",
+          "score": 0.7,
+          "matched": [
+            "analytics",
+            "controls",
+            "iot",
+            "lighting",
+            "sensors",
+            "hvac",
+            "automated"
+          ]
+        },
+        {
+          "doc": "EcoSense_360_Technical_Specifications.docx",
+          "section": "3. Key Features & Capabilities",
+          "text": "Real-Time Monitoring: Live dashboards for energy consumption, occupancy, and environmental metrics. Automated Controls: AI-driven scheduling and adaptive control of HVAC, lighting, and plug loads. Integration: Native support for major hotel PMS, Open RESTful API, BACnet/IP and Modbus compatibility. Reporting & Analytics: Customizable reports, predictive maintenance alerts, ROI calculators. Sustainability: LEED and ENERGY STAR compliance support, automated demand response participation.",
+          "score": 0.7,
+          "matched": [
+            "analytics",
+            "controls",
+            "plug",
+            "lighting",
+            "loads",
+            "hvac",
+            "automated"
+          ]
+        }
+      ],
+      "answer_draft": "我司产品完全满足此项要求，具体如下：\n\n| Q-001 | 🟡 | \"Deploy a scalable energy management platform for hotels and resorts\" | 需说明平台可扩展架构设计 | 高 | | Q-002 | 🟡 | \"Integrate IoT sensors, analytics, and automated controls for HVAC, lighting, and plug loads\" | 需展示 HVAC/照明/插座负载的集成方案 | 高 | | Q-003 | 🟢 | \"Achieve measurable energy savings and supp"
+    },
+    {
+      "question_id": "Q-003",
+      "question_text": "Achieve measurable energy savings and support sustainability certifications (e.g., LEED, ENERGY STAR).",
+      "question_type": "hard_req",
+      "keywords": [
+        "measurable",
+        "savings",
+        "certifications",
+        "sustainability",
+        "energy star",
+        "achieve",
+        "star",
+        "energy",
+        "leed"
+      ],
+      "status": "full_match",
+      "status_icon": "✅",
+      "status_label": "完全匹配",
+      "source_doc": "VanArsdel_RFP_Questions.md",
+      "source_section": "|------|------|---------|-------------|--------|",
+      "best_quote": "| Q-001 | 🟡 | \"Deploy a scalable energy management platform for hotels and resorts\" | 需说明平台可扩展架构设计 | 高 | | Q-002 | 🟡 | \"Integrate IoT sensors, analytics, and automated controls for HVAC, lighting, and plug loads\" | 需展示 HVAC/照明/插座负载的集成方案 | 高 | | Q-003 | 🟢 | \"Achieve measurable energy savings and support sustainability certifications (e.g., LEED, ENE",
+      "top_hits": [
+        {
+          "doc": "VanArsdel_RFP_Questions.md",
+          "section": "|------|------|---------|-------------|--------|",
+          "text": "| Q-001 | 🟡 | \"Deploy a scalable energy management platform for hotels and resorts\" | 需说明平台可扩展架构设计 | 高 | | Q-002 | 🟡 | \"Integrate IoT sensors, analytics, and automated controls for HVAC, lighting, and plug loads\" | 需展示 HVAC/照明/插座负载的集成方案 | 高 | | Q-003 | 🟢 | \"Achieve measurable energy savings and support sustainability certifications (e.g., LEED, ENERGY STAR)\" | 需提供节能数据和认证支持能力 | 中 | | Q-004 | 🟡 | \"Enable real-time monitoring, reporting, and predictive maintenance\" | 需展示实时监控和预测性维护功能 | 高 |",
+          "score": 1.0,
+          "matched": [
+            "measurable",
+            "savings",
+            "certifications",
+            "sustainability",
+            "energy star",
+            "achieve",
+            "star",
+            "energy",
+            "leed"
+          ]
+        },
+        {
+          "doc": "EcoSense_360_Customer_Case_Study.docx",
+          "section": "Document",
+          "text": "EcoSense 360 Customer Case Study Transforming Energy Management at the Grand Vista Resort Background The Grand Vista Resort is a 200-room, midscale property located in Orlando, Florida, catering to both leisure and business travelers. Facing rising energy costs, sustainability mandates, and the need to enhance guest comfort, the resort’s management sought a modern solution to optimize energy usage and support their green initiatives. Challenges High and unpredictable energy expenses (over $250,000 annually) Inefficient HVAC and lighting controls leading to wasted energy Difficulty meeting sustainability certification requirements (LEED, ENERGY STAR) Need for real-time monitoring and actionable insights Solution: EcoSense 360 Implementation In early 2025, Grand Vista Resort partnered with Fabrikam to deploy the EcoSense 360 energy management platform. The solution included: Wireless IoT sensors for temperature, occupancy, humidity, and lighting Smart thermostats and automated lighting controls in all guest rooms and public areas Cloud-based management portal for real-time monitoring and analytics Integration with the property’s existing PMS and BMS systems Sustainability reporting tools for certification compliance Results & Impact Energy Savings & ROI Achieved a 32% reduction in annual energy costs (saving $80,000/year) Typical payback period: 2.5 years Operational Efficiency Automated controls reduced manual intervention by 80% Predictive maintenance alerts minimized equipment downtime Sustainability & Compliance Earned LEED Silver and ENERGY STAR certifications within 12 months Reduced carbon footprint by 110 metric tons/year Guest Experience Personalized room comfort settings increased guest satisfaction scores by 18% Real-time occupancy-based controls improved overall comfort and reduced complaints Key Metrics Testimonial \"EcoSense 360 has transformed our approach to energy management. We’ve cut costs, improved guest comfort, and achieved our sustainability goals faster than expected. The real-time insights and automation have made our operations more efficient and future-ready.\" — Jamie Lee, General Manager, Grand Vista Resort",
+          "score": 0.889,
+          "matched": [
+            "savings",
+            "certifications",
+            "sustainability",
+            "energy star",
+            "achieve",
+            "star",
+            "energy",
+            "leed"
+          ]
+        },
+        {
+          "doc": "EcoSense_360_Technical_Specifications.docx",
+          "section": "6. Sustainability & Compliance",
+          "text": "Certifications: ENERGY STAR, LEED v4.1, Green Key Environmental Impact: Average energy savings: 18–25% per property; Carbon reduction: Up to 120 metric tons/year for a 200-room hotel",
+          "score": 0.667,
+          "matched": [
+            "savings",
+            "certifications",
+            "energy star",
+            "star",
+            "energy",
+            "leed"
+          ]
+        }
+      ],
+      "answer_draft": "我司产品完全满足此项要求，具体如下：\n\n| Q-001 | 🟡 | \"Deploy a scalable energy management platform for hotels and resorts\" | 需说明平台可扩展架构设计 | 高 | | Q-002 | 🟡 | \"Integrate IoT sensors, analytics, and automated controls for HVAC, lighting, and plug loads\" | 需展示 HVAC/照明/插座负载的集成方案 | 高 | | Q-003 | 🟢 | \"Achieve measurable energy savings and supp"
+    },
+    {
+      "question_id": "Q-004",
+      "question_text": "Enable real-time monitoring, reporting, and predictive maintenance.",
+      "question_type": "hard_req",
+      "keywords": [
+        "reporting",
+        "predictive",
+        "real-time",
+        "predictive maintenance",
+        "enable",
+        "maintenance",
+        "monitoring"
+      ],
+      "status": "full_match",
+      "status_icon": "✅",
+      "status_label": "完全匹配",
+      "source_doc": "VanArsdel_RFP_Questions.md",
+      "source_section": "|------|------|---------|-------------|--------|",
+      "best_quote": "| Q-001 | 🟡 | \"Deploy a scalable energy management platform for hotels and resorts\" | 需说明平台可扩展架构设计 | 高 | | Q-002 | 🟡 | \"Integrate IoT sensors, analytics, and automated controls for HVAC, lighting, and plug loads\" | 需展示 HVAC/照明/插座负载的集成方案 | 高 | | Q-003 | 🟢 | \"Achieve measurable energy savings and support sustainability certifications (e.g., LEED, ENE",
+      "top_hits": [
+        {
+          "doc": "VanArsdel_RFP_Questions.md",
+          "section": "|------|------|---------|-------------|--------|",
+          "text": "| Q-001 | 🟡 | \"Deploy a scalable energy management platform for hotels and resorts\" | 需说明平台可扩展架构设计 | 高 | | Q-002 | 🟡 | \"Integrate IoT sensors, analytics, and automated controls for HVAC, lighting, and plug loads\" | 需展示 HVAC/照明/插座负载的集成方案 | 高 | | Q-003 | 🟢 | \"Achieve measurable energy savings and support sustainability certifications (e.g., LEED, ENERGY STAR)\" | 需提供节能数据和认证支持能力 | 中 | | Q-004 | 🟡 | \"Enable real-time monitoring, reporting, and predictive maintenance\" | 需展示实时监控和预测性维护功能 | 高 |",
+          "score": 1.0,
+          "matched": [
+            "reporting",
+            "predictive",
+            "real-time",
+            "predictive maintenance",
+            "enable",
+            "maintenance",
+            "monitoring"
+          ]
+        },
+        {
+          "doc": "EcoSense_360_Customer_Case_Study.docx",
+          "section": "Document",
+          "text": "EcoSense 360 Customer Case Study Transforming Energy Management at the Grand Vista Resort Background The Grand Vista Resort is a 200-room, midscale property located in Orlando, Florida, catering to both leisure and business travelers. Facing rising energy costs, sustainability mandates, and the need to enhance guest comfort, the resort’s management sought a modern solution to optimize energy usage and support their green initiatives. Challenges High and unpredictable energy expenses (over $250,000 annually) Inefficient HVAC and lighting controls leading to wasted energy Difficulty meeting sustainability certification requirements (LEED, ENERGY STAR) Need for real-time monitoring and actionable insights Solution: EcoSense 360 Implementation In early 2025, Grand Vista Resort partnered with Fabrikam to deploy the EcoSense 360 energy management platform. The solution included: Wireless IoT sensors for temperature, occupancy, humidity, and lighting Smart thermostats and automated lighting controls in all guest rooms and public areas Cloud-based management portal for real-time monitoring and analytics Integration with the property’s existing PMS and BMS systems Sustainability reporting tools for certification compliance Results & Impact Energy Savings & ROI Achieved a 32% reduction in annual energy costs (saving $80,000/year) Typical payback period: 2.5 years Operational Efficiency Automated controls reduced manual intervention by 80% Predictive maintenance alerts minimized equipment downtime Sustainability & Compliance Earned LEED Silver and ENERGY STAR certifications within 12 months Reduced carbon footprint by 110 metric tons/year Guest Experience Personalized room comfort settings increased guest satisfaction scores by 18% Real-time occupancy-based controls improved overall comfort and reduced complaints Key Metrics Testimonial \"EcoSense 360 has transformed our approach to energy management. We’ve cut costs, improved guest comfort, and achieved our sustainability goals faster than expected. The real-time insights and automation have made our operations more efficient and future-ready.\" — Jamie Lee, General Manager, Grand Vista Resort",
+          "score": 0.857,
+          "matched": [
+            "reporting",
+            "predictive",
+            "real-time",
+            "predictive maintenance",
+            "maintenance",
+            "monitoring"
+          ]
+        },
+        {
+          "doc": "EcoSense_360_Technical_Specifications.docx",
+          "section": "3. Key Features & Capabilities",
+          "text": "Real-Time Monitoring: Live dashboards for energy consumption, occupancy, and environmental metrics. Automated Controls: AI-driven scheduling and adaptive control of HVAC, lighting, and plug loads. Integration: Native support for major hotel PMS, Open RESTful API, BACnet/IP and Modbus compatibility. Reporting & Analytics: Customizable reports, predictive maintenance alerts, ROI calculators. Sustainability: LEED and ENERGY STAR compliance support, automated demand response participation.",
+          "score": 0.857,
+          "matched": [
+            "reporting",
+            "predictive",
+            "real-time",
+            "predictive maintenance",
+            "maintenance",
+            "monitoring"
+          ]
+        }
+      ],
+      "answer_draft": "我司产品完全满足此项要求，具体如下：\n\n| Q-001 | 🟡 | \"Deploy a scalable energy management platform for hotels and resorts\" | 需说明平台可扩展架构设计 | 高 | | Q-002 | 🟡 | \"Integrate IoT sensors, analytics, and automated controls for HVAC, lighting, and plug loads\" | 需展示 HVAC/照明/插座负载的集成方案 | 高 | | Q-003 | 🟢 | \"Achieve measurable energy savings and supp"
+    },
+    {
+      "question_id": "Q-005",
+      "question_text": "Supply and install all necessary hardware and software.",
+      "question_type": "hard_req",
+      "keywords": [
+        "install",
+        "supply",
+        "necessary",
+        "hardware",
+        "software"
+      ],
+      "status": "full_match",
+      "status_icon": "✅",
+      "status_label": "完全匹配",
+      "source_doc": "VanArsdel_RFP_Questions.md",
+      "source_section": "|------|------|---------|-------------|--------|",
+      "best_quote": "| Q-005 | 🟡 | \"Supply and install all necessary hardware and software\" | 需列出硬件软件清单及安装计划 | 高 | | Q-006 | 🟡 | \"Integrate with existing property management and building management systems\" | 需说明与 PMS/BMS 系统的集成方案 | 高 | | Q-007 | 🟡 | \"Provide training and ongoing support for property staff\" | 需提出培训计划和持续支持方案 | 中 | | Q-008 | 🟡 | \"Ensure compliance with re",
+      "top_hits": [
+        {
+          "doc": "VanArsdel_RFP_Questions.md",
+          "section": "|------|------|---------|-------------|--------|",
+          "text": "| Q-005 | 🟡 | \"Supply and install all necessary hardware and software\" | 需列出硬件软件清单及安装计划 | 高 | | Q-006 | 🟡 | \"Integrate with existing property management and building management systems\" | 需说明与 PMS/BMS 系统的集成方案 | 高 | | Q-007 | 🟡 | \"Provide training and ongoing support for property staff\" | 需提出培训计划和持续支持方案 | 中 | | Q-008 | 🟡 | \"Ensure compliance with relevant industry standards and local regulations\" | 需列出符合的行业标准和法规 | 高 |",
+          "score": 1.0,
+          "matched": [
+            "install",
+            "supply",
+            "necessary",
+            "hardware",
+            "software"
+          ]
+        },
+        {
+          "doc": "EcoSense_360_Sample_Pricing_Sheet.docx",
+          "section": "Document",
+          "text": "EcoSense 360 Sample Pricing Sheet Illustrative Pricing for Hardware, Software, and Services",
+          "score": 0.4,
+          "matched": [
+            "hardware",
+            "software"
+          ]
+        },
+        {
+          "doc": "EcoSense_360_Sample_Pricing_Sheet.txt",
+          "section": "Document",
+          "text": "Illustrative Pricing for Hardware, Software, and Services",
+          "score": 0.4,
+          "matched": [
+            "hardware",
+            "software"
+          ]
+        }
+      ],
+      "answer_draft": "我司产品完全满足此项要求，具体如下：\n\n| Q-005 | 🟡 | \"Supply and install all necessary hardware and software\" | 需列出硬件软件清单及安装计划 | 高 | | Q-006 | 🟡 | \"Integrate with existing property management and building management systems\" | 需说明与 PMS/BMS 系统的集成方案 | 高 | | Q-007 | 🟡 | \"Provide training and ongoing support for property staff\" | 需提出培训计划和持续支"
+    },
+    {
+      "question_id": "Q-006",
+      "question_text": "Integrate with existing property management and building management systems.",
+      "question_type": "hard_req",
+      "keywords": [
+        "building management",
+        "property management",
+        "property",
+        "integrate",
+        "management",
+        "systems",
+        "building",
+        "existing"
+      ],
+      "status": "full_match",
+      "status_icon": "✅",
+      "status_label": "完全匹配",
+      "source_doc": "VanArsdel_RFP_Questions.md",
+      "source_section": "|------|------|---------|-------------|--------|",
+      "best_quote": "| Q-005 | 🟡 | \"Supply and install all necessary hardware and software\" | 需列出硬件软件清单及安装计划 | 高 | | Q-006 | 🟡 | \"Integrate with existing property management and building management systems\" | 需说明与 PMS/BMS 系统的集成方案 | 高 | | Q-007 | 🟡 | \"Provide training and ongoing support for property staff\" | 需提出培训计划和持续支持方案 | 中 | | Q-008 | 🟡 | \"Ensure compliance with re",
+      "top_hits": [
+        {
+          "doc": "VanArsdel_RFP_Questions.md",
+          "section": "|------|------|---------|-------------|--------|",
+          "text": "| Q-005 | 🟡 | \"Supply and install all necessary hardware and software\" | 需列出硬件软件清单及安装计划 | 高 | | Q-006 | 🟡 | \"Integrate with existing property management and building management systems\" | 需说明与 PMS/BMS 系统的集成方案 | 高 | | Q-007 | 🟡 | \"Provide training and ongoing support for property staff\" | 需提出培训计划和持续支持方案 | 中 | | Q-008 | 🟡 | \"Ensure compliance with relevant industry standards and local regulations\" | 需列出符合的行业标准和法规 | 高 |",
+          "score": 1.0,
+          "matched": [
+            "building management",
+            "property management",
+            "property",
+            "integrate",
+            "management",
+            "systems",
+            "building",
+            "existing"
+          ]
+        },
+        {
+          "doc": "EcoSense_360_Customer_Case_Study.docx",
+          "section": "Document",
+          "text": "EcoSense 360 Customer Case Study Transforming Energy Management at the Grand Vista Resort Background The Grand Vista Resort is a 200-room, midscale property located in Orlando, Florida, catering to both leisure and business travelers. Facing rising energy costs, sustainability mandates, and the need to enhance guest comfort, the resort’s management sought a modern solution to optimize energy usage and support their green initiatives. Challenges High and unpredictable energy expenses (over $250,000 annually) Inefficient HVAC and lighting controls leading to wasted energy Difficulty meeting sustainability certification requirements (LEED, ENERGY STAR) Need for real-time monitoring and actionable insights Solution: EcoSense 360 Implementation In early 2025, Grand Vista Resort partnered with Fabrikam to deploy the EcoSense 360 energy management platform. The solution included: Wireless IoT sensors for temperature, occupancy, humidity, and lighting Smart thermostats and automated lighting controls in all guest rooms and public areas Cloud-based management portal for real-time monitoring and analytics Integration with the property’s existing PMS and BMS systems Sustainability reporting tools for certification compliance Results & Impact Energy Savings & ROI Achieved a 32% reduction in annual energy costs (saving $80,000/year) Typical payback period: 2.5 years Operational Efficiency Automated controls reduced manual intervention by 80% Predictive maintenance alerts minimized equipment downtime Sustainability & Compliance Earned LEED Silver and ENERGY STAR certifications within 12 months Reduced carbon footprint by 110 metric tons/year Guest Experience Personalized room comfort settings increased guest satisfaction scores by 18% Real-time occupancy-based controls improved overall comfort and reduced complaints Key Metrics Testimonial \"EcoSense 360 has transformed our approach to energy management. We’ve cut costs, improved guest comfort, and achieved our sustainability goals faster than expected. The real-time insights and automation have made our operations more efficient and future-ready.\" — Jamie Lee, General Manager, Grand Vista Resort",
+          "score": 0.5,
+          "matched": [
+            "property",
+            "management",
+            "systems",
+            "existing"
+          ]
+        },
+        {
+          "doc": "EcoSense_360_Customer_Case_Study.txt",
+          "section": "Document",
+          "text": "Integration with the property’s existing PMS and BMS systems",
+          "score": 0.375,
+          "matched": [
+            "property",
+            "systems",
+            "existing"
+          ]
+        }
+      ],
+      "answer_draft": "我司产品完全满足此项要求，具体如下：\n\n| Q-005 | 🟡 | \"Supply and install all necessary hardware and software\" | 需列出硬件软件清单及安装计划 | 高 | | Q-006 | 🟡 | \"Integrate with existing property management and building management systems\" | 需说明与 PMS/BMS 系统的集成方案 | 高 | | Q-007 | 🟡 | \"Provide training and ongoing support for property staff\" | 需提出培训计划和持续支"
+    },
+    {
+      "question_id": "Q-007",
+      "question_text": "Provide training and ongoing support for property staff.",
+      "question_type": "hard_req",
+      "keywords": [
+        "staff",
+        "property",
+        "training",
+        "ongoing"
+      ],
+      "status": "full_match",
+      "status_icon": "✅",
+      "status_label": "完全匹配",
+      "source_doc": "VanArsdel_RFP_Questions.md",
+      "source_section": "|------|------|---------|-------------|--------|",
+      "best_quote": "| Q-005 | 🟡 | \"Supply and install all necessary hardware and software\" | 需列出硬件软件清单及安装计划 | 高 | | Q-006 | 🟡 | \"Integrate with existing property management and building management systems\" | 需说明与 PMS/BMS 系统的集成方案 | 高 | | Q-007 | 🟡 | \"Provide training and ongoing support for property staff\" | 需提出培训计划和持续支持方案 | 中 | | Q-008 | 🟡 | \"Ensure compliance with re",
+      "top_hits": [
+        {
+          "doc": "VanArsdel_RFP_Questions.md",
+          "section": "|------|------|---------|-------------|--------|",
+          "text": "| Q-005 | 🟡 | \"Supply and install all necessary hardware and software\" | 需列出硬件软件清单及安装计划 | 高 | | Q-006 | 🟡 | \"Integrate with existing property management and building management systems\" | 需说明与 PMS/BMS 系统的集成方案 | 高 | | Q-007 | 🟡 | \"Provide training and ongoing support for property staff\" | 需提出培训计划和持续支持方案 | 中 | | Q-008 | 🟡 | \"Ensure compliance with relevant industry standards and local regulations\" | 需列出符合的行业标准和法规 | 高 |",
+          "score": 1.0,
+          "matched": [
+            "staff",
+            "property",
+            "training",
+            "ongoing"
+          ]
+        },
+        {
+          "doc": "EcoSense_360_Customer_Case_Study.docx",
+          "section": "Document",
+          "text": "EcoSense 360 Customer Case Study Transforming Energy Management at the Grand Vista Resort Background The Grand Vista Resort is a 200-room, midscale property located in Orlando, Florida, catering to both leisure and business travelers. Facing rising energy costs, sustainability mandates, and the need to enhance guest comfort, the resort’s management sought a modern solution to optimize energy usage and support their green initiatives. Challenges High and unpredictable energy expenses (over $250,000 annually) Inefficient HVAC and lighting controls leading to wasted energy Difficulty meeting sustainability certification requirements (LEED, ENERGY STAR) Need for real-time monitoring and actionable insights Solution: EcoSense 360 Implementation In early 2025, Grand Vista Resort partnered with Fabrikam to deploy the EcoSense 360 energy management platform. The solution included: Wireless IoT sensors for temperature, occupancy, humidity, and lighting Smart thermostats and automated lighting controls in all guest rooms and public areas Cloud-based management portal for real-time monitoring and analytics Integration with the property’s existing PMS and BMS systems Sustainability reporting tools for certification compliance Results & Impact Energy Savings & ROI Achieved a 32% reduction in annual energy costs (saving $80,000/year) Typical payback period: 2.5 years Operational Efficiency Automated controls reduced manual intervention by 80% Predictive maintenance alerts minimized equipment downtime Sustainability & Compliance Earned LEED Silver and ENERGY STAR certifications within 12 months Reduced carbon footprint by 110 metric tons/year Guest Experience Personalized room comfort settings increased guest satisfaction scores by 18% Real-time occupancy-based controls improved overall comfort and reduced complaints Key Metrics Testimonial \"EcoSense 360 has transformed our approach to energy management. We’ve cut costs, improved guest comfort, and achieved our sustainability goals faster than expected. The real-time insights and automation have made our operations more efficient and future-ready.\" — Jamie Lee, General Manager, Grand Vista Resort",
+          "score": 0.25,
+          "matched": [
+            "property"
+          ]
+        },
+        {
+          "doc": "EcoSense_360_Customer_Case_Study.txt",
+          "section": "Document",
+          "text": "The Grand Vista Resort is a 200-room, midscale property located in Orlando, Florida, catering to both leisure and business travelers. Facing rising energy costs, sustainability mandates, and the need to enhance guest comfort, the resort’s management sought a modern solution to optimize energy usage and support their green initiatives.",
+          "score": 0.25,
+          "matched": [
+            "property"
+          ]
+        }
+      ],
+      "answer_draft": "我司产品完全满足此项要求，具体如下：\n\n| Q-005 | 🟡 | \"Supply and install all necessary hardware and software\" | 需列出硬件软件清单及安装计划 | 高 | | Q-006 | 🟡 | \"Integrate with existing property management and building management systems\" | 需说明与 PMS/BMS 系统的集成方案 | 高 | | Q-007 | 🟡 | \"Provide training and ongoing support for property staff\" | 需提出培训计划和持续支"
+    },
+    {
+      "question_id": "Q-008",
+      "question_text": "Ensure compliance with relevant industry standards and local regulations.",
+      "question_type": "hard_req",
+      "keywords": [
+        "regulations",
+        "compliance",
+        "relevant",
+        "local",
+        "industry",
+        "standards"
+      ],
+      "status": "full_match",
+      "status_icon": "✅",
+      "status_label": "完全匹配",
+      "source_doc": "VanArsdel_RFP_Questions.md",
+      "source_section": "|------|------|---------|-------------|--------|",
+      "best_quote": "| Q-005 | 🟡 | \"Supply and install all necessary hardware and software\" | 需列出硬件软件清单及安装计划 | 高 | | Q-006 | 🟡 | \"Integrate with existing property management and building management systems\" | 需说明与 PMS/BMS 系统的集成方案 | 高 | | Q-007 | 🟡 | \"Provide training and ongoing support for property staff\" | 需提出培训计划和持续支持方案 | 中 | | Q-008 | 🟡 | \"Ensure compliance with re",
+      "top_hits": [
+        {
+          "doc": "VanArsdel_RFP_Questions.md",
+          "section": "|------|------|---------|-------------|--------|",
+          "text": "| Q-005 | 🟡 | \"Supply and install all necessary hardware and software\" | 需列出硬件软件清单及安装计划 | 高 | | Q-006 | 🟡 | \"Integrate with existing property management and building management systems\" | 需说明与 PMS/BMS 系统的集成方案 | 高 | | Q-007 | 🟡 | \"Provide training and ongoing support for property staff\" | 需提出培训计划和持续支持方案 | 中 | | Q-008 | 🟡 | \"Ensure compliance with relevant industry standards and local regulations\" | 需列出符合的行业标准和法规 | 高 |",
+          "score": 1.0,
+          "matched": [
+            "regulations",
+            "compliance",
+            "relevant",
+            "local",
+            "industry",
+            "standards"
+          ]
+        },
+        {
+          "doc": "EcoSense_360_Customer_Case_Study.docx",
+          "section": "Document",
+          "text": "EcoSense 360 Customer Case Study Transforming Energy Management at the Grand Vista Resort Background The Grand Vista Resort is a 200-room, midscale property located in Orlando, Florida, catering to both leisure and business travelers. Facing rising energy costs, sustainability mandates, and the need to enhance guest comfort, the resort’s management sought a modern solution to optimize energy usage and support their green initiatives. Challenges High and unpredictable energy expenses (over $250,000 annually) Inefficient HVAC and lighting controls leading to wasted energy Difficulty meeting sustainability certification requirements (LEED, ENERGY STAR) Need for real-time monitoring and actionable insights Solution: EcoSense 360 Implementation In early 2025, Grand Vista Resort partnered with Fabrikam to deploy the EcoSense 360 energy management platform. The solution included: Wireless IoT sensors for temperature, occupancy, humidity, and lighting Smart thermostats and automated lighting controls in all guest rooms and public areas Cloud-based management portal for real-time monitoring and analytics Integration with the property’s existing PMS and BMS systems Sustainability reporting tools for certification compliance Results & Impact Energy Savings & ROI Achieved a 32% reduction in annual energy costs (saving $80,000/year) Typical payback period: 2.5 years Operational Efficiency Automated controls reduced manual intervention by 80% Predictive maintenance alerts minimized equipment downtime Sustainability & Compliance Earned LEED Silver and ENERGY STAR certifications within 12 months Reduced carbon footprint by 110 metric tons/year Guest Experience Personalized room comfort settings increased guest satisfaction scores by 18% Real-time occupancy-based controls improved overall comfort and reduced complaints Key Metrics Testimonial \"EcoSense 360 has transformed our approach to energy management. We’ve cut costs, improved guest comfort, and achieved our sustainability goals faster than expected. The real-time insights and automation have made our operations more efficient and future-ready.\" — Jamie Lee, General Manager, Grand Vista Resort",
+          "score": 0.167,
+          "matched": [
+            "compliance"
+          ]
+        },
+        {
+          "doc": "EcoSense_360_Customer_Case_Study.txt",
+          "section": "Document",
+          "text": "Sustainability reporting tools for certification compliance",
+          "score": 0.167,
+          "matched": [
+            "compliance"
+          ]
+        }
+      ],
+      "answer_draft": "我司产品完全满足此项要求，具体如下：\n\n| Q-005 | 🟡 | \"Supply and install all necessary hardware and software\" | 需列出硬件软件清单及安装计划 | 高 | | Q-006 | 🟡 | \"Integrate with existing property management and building management systems\" | 需说明与 PMS/BMS 系统的集成方案 | 高 | | Q-007 | 🟡 | \"Provide training and ongoing support for property staff\" | 需提出培训计划和持续支"
+    },
+    {
+      "question_id": "Q-009",
+      "question_text": "Support for wireless IoT sensors (temperature, occupancy, humidity, light, CO2).",
+      "question_type": "hard_req",
+      "keywords": [
+        "iot",
+        "humidity",
+        "wireless",
+        "sensors",
+        "light",
+        "temperature",
+        "occupancy"
+      ],
+      "status": "full_match",
+      "status_icon": "✅",
+      "status_label": "完全匹配",
+      "source_doc": "EcoSense_360_Customer_Case_Study.docx",
+      "source_section": "Document",
+      "best_quote": "The solution included: Wireless IoT sensors for temperature, occupancy, humidity, and lighting Smart thermostats and automated lighting controls in all guest rooms and public areas Cloud-based management portal for real-time monitoring and analytics Integration with the property’s existing PMS and BMS systems Sustainability reporting tools for cert",
+      "top_hits": [
+        {
+          "doc": "EcoSense_360_Customer_Case_Study.docx",
+          "section": "Document",
+          "text": "EcoSense 360 Customer Case Study Transforming Energy Management at the Grand Vista Resort Background The Grand Vista Resort is a 200-room, midscale property located in Orlando, Florida, catering to both leisure and business travelers. Facing rising energy costs, sustainability mandates, and the need to enhance guest comfort, the resort’s management sought a modern solution to optimize energy usage and support their green initiatives. Challenges High and unpredictable energy expenses (over $250,000 annually) Inefficient HVAC and lighting controls leading to wasted energy Difficulty meeting sustainability certification requirements (LEED, ENERGY STAR) Need for real-time monitoring and actionable insights Solution: EcoSense 360 Implementation In early 2025, Grand Vista Resort partnered with Fabrikam to deploy the EcoSense 360 energy management platform. The solution included: Wireless IoT sensors for temperature, occupancy, humidity, and lighting Smart thermostats and automated lighting controls in all guest rooms and public areas Cloud-based management portal for real-time monitoring and analytics Integration with the property’s existing PMS and BMS systems Sustainability reporting tools for certification compliance Results & Impact Energy Savings & ROI Achieved a 32% reduction in annual energy costs (saving $80,000/year) Typical payback period: 2.5 years Operational Efficiency Automated controls reduced manual intervention by 80% Predictive maintenance alerts minimized equipment downtime Sustainability & Compliance Earned LEED Silver and ENERGY STAR certifications within 12 months Reduced carbon footprint by 110 metric tons/year Guest Experience Personalized room comfort settings increased guest satisfaction scores by 18% Real-time occupancy-based controls improved overall comfort and reduced complaints Key Metrics Testimonial \"EcoSense 360 has transformed our approach to energy management. We’ve cut costs, improved guest comfort, and achieved our sustainability goals faster than expected. The real-time insights and automation have made our operations more efficient and future-ready.\" — Jamie Lee, General Manager, Grand Vista Resort",
+          "score": 1.0,
+          "matched": [
+            "iot",
+            "humidity",
+            "wireless",
+            "sensors",
+            "light",
+            "temperature",
+            "occupancy"
+          ]
+        },
+        {
+          "doc": "EcoSense_360_Customer_Case_Study.txt",
+          "section": "Document",
+          "text": "Wireless IoT sensors for temperature, occupancy, humidity, and lighting",
+          "score": 1.0,
+          "matched": [
+            "iot",
+            "humidity",
+            "wireless",
+            "sensors",
+            "light",
+            "temperature",
+            "occupancy"
+          ]
+        },
+        {
+          "doc": "EcoSense_360_Technical_Specifications.docx",
+          "section": "2. System Architecture",
+          "text": "Core Components: EcoSense 360 Hub (central controller) Wireless IoT Sensors (temperature, occupancy, humidity, light) Smart Thermostats and Lighting Controllers Cloud Management Portal (web/mobile) API Gateway for third-party integrations Network Protocols: Zigbee, Wi-Fi 6, Bluetooth LE Secure TLS/SSL encryption for all device communications Supported Platforms: Windows, iOS, Android (mobile apps) Web browsers (Chrome, Edge, Safari)",
+          "score": 1.0,
+          "matched": [
+            "iot",
+            "humidity",
+            "wireless",
+            "sensors",
+            "light",
+            "temperature",
+            "occupancy"
+          ]
+        }
+      ],
+      "answer_draft": "我司产品完全满足此项要求，具体如下：\n\nEcoSense 360 Customer Case Study Transforming Energy Management at the Grand Vista Resort Background The Grand Vista Resort is a 200-room, midscale property located in Orlando, Florida, catering to both leisure and business travelers. Facing rising energy costs, sustainability mandates, and the need"
+    },
+    {
+      "question_id": "Q-010",
+      "question_text": "Cloud-based management portal with mobile access.",
+      "question_type": "hard_req",
+      "keywords": [
+        "access",
+        "cloud-based",
+        "portal",
+        "management",
+        "mobile"
+      ],
+      "status": "full_match",
+      "status_icon": "✅",
+      "status_label": "完全匹配",
+      "source_doc": "VanArsdel_RFP_Questions.md",
+      "source_section": "|------|------|---------|-------------|--------|",
+      "best_quote": "| Q-009 | 🟡 | \"Support for wireless IoT sensors (temperature, occupancy, humidity, light, CO2)\" | 需确认传感器类型和技术规格 | 高 | | Q-010 | 🟡 | \"Cloud-based management portal with mobile access\" | 需展示云门户和移动端功能 | 高 | | Q-011 | 🟡 | \"Secure communications (TLS/SSL), data encryption, and ISO 27001 compliance\" | 需提供安全合规证明 | 高 | | Q-012 | 🟡 | \"Open API for third-par",
+      "top_hits": [
+        {
+          "doc": "VanArsdel_RFP_Questions.md",
+          "section": "|------|------|---------|-------------|--------|",
+          "text": "| Q-009 | 🟡 | \"Support for wireless IoT sensors (temperature, occupancy, humidity, light, CO2)\" | 需确认传感器类型和技术规格 | 高 | | Q-010 | 🟡 | \"Cloud-based management portal with mobile access\" | 需展示云门户和移动端功能 | 高 | | Q-011 | 🟡 | \"Secure communications (TLS/SSL), data encryption, and ISO 27001 compliance\" | 需提供安全合规证明 | 高 | | Q-012 | 🟡 | \"Open API for third-party integrations\" | 需提供 API 文档和集成案例 | 高 | | Q-013 | 🟡 | \"Automated demand response and sustainability reporting features\" | 需展示需求响应和报告功能 | 中 |",
+          "score": 1.0,
+          "matched": [
+            "access",
+            "cloud-based",
+            "portal",
+            "management",
+            "mobile"
+          ]
+        },
+        {
+          "doc": "EcoSense_360_Customer_Case_Study.docx",
+          "section": "Document",
+          "text": "EcoSense 360 Customer Case Study Transforming Energy Management at the Grand Vista Resort Background The Grand Vista Resort is a 200-room, midscale property located in Orlando, Florida, catering to both leisure and business travelers. Facing rising energy costs, sustainability mandates, and the need to enhance guest comfort, the resort’s management sought a modern solution to optimize energy usage and support their green initiatives. Challenges High and unpredictable energy expenses (over $250,000 annually) Inefficient HVAC and lighting controls leading to wasted energy Difficulty meeting sustainability certification requirements (LEED, ENERGY STAR) Need for real-time monitoring and actionable insights Solution: EcoSense 360 Implementation In early 2025, Grand Vista Resort partnered with Fabrikam to deploy the EcoSense 360 energy management platform. The solution included: Wireless IoT sensors for temperature, occupancy, humidity, and lighting Smart thermostats and automated lighting controls in all guest rooms and public areas Cloud-based management portal for real-time monitoring and analytics Integration with the property’s existing PMS and BMS systems Sustainability reporting tools for certification compliance Results & Impact Energy Savings & ROI Achieved a 32% reduction in annual energy costs (saving $80,000/year) Typical payback period: 2.5 years Operational Efficiency Automated controls reduced manual intervention by 80% Predictive maintenance alerts minimized equipment downtime Sustainability & Compliance Earned LEED Silver and ENERGY STAR certifications within 12 months Reduced carbon footprint by 110 metric tons/year Guest Experience Personalized room comfort settings increased guest satisfaction scores by 18% Real-time occupancy-based controls improved overall comfort and reduced complaints Key Metrics Testimonial \"EcoSense 360 has transformed our approach to energy management. We’ve cut costs, improved guest comfort, and achieved our sustainability goals faster than expected. The real-time insights and automation have made our operations more efficient and future-ready.\" — Jamie Lee, General Manager, Grand Vista Resort",
+          "score": 0.6,
+          "matched": [
+            "cloud-based",
+            "portal",
+            "management"
+          ]
+        },
+        {
+          "doc": "EcoSense_360_Customer_Case_Study.txt",
+          "section": "Document",
+          "text": "Cloud-based management portal for real-time monitoring and analytics",
+          "score": 0.6,
+          "matched": [
+            "cloud-based",
+            "portal",
+            "management"
+          ]
+        }
+      ],
+      "answer_draft": "我司产品完全满足此项要求，具体如下：\n\n| Q-009 | 🟡 | \"Support for wireless IoT sensors (temperature, occupancy, humidity, light, CO2)\" | 需确认传感器类型和技术规格 | 高 | | Q-010 | 🟡 | \"Cloud-based management portal with mobile access\" | 需展示云门户和移动端功能 | 高 | | Q-011 | 🟡 | \"Secure communications (TLS/SSL), data encryption, and ISO 27001 compliance\" | 需提供"
+    },
+    {
+      "question_id": "Q-011",
+      "question_text": "Secure communications (TLS/SSL), data encryption, and ISO 27001 compliance.",
+      "question_type": "hard_req",
+      "keywords": [
+        "data",
+        "compliance",
+        "secure",
+        "communications",
+        "tls",
+        "iso 27001",
+        "encryption",
+        "ssl"
+      ],
+      "status": "full_match",
+      "status_icon": "✅",
+      "status_label": "完全匹配",
+      "source_doc": "VanArsdel_RFP_Questions.md",
+      "source_section": "|------|------|---------|-------------|--------|",
+      "best_quote": "| Q-009 | 🟡 | \"Support for wireless IoT sensors (temperature, occupancy, humidity, light, CO2)\" | 需确认传感器类型和技术规格 | 高 | | Q-010 | 🟡 | \"Cloud-based management portal with mobile access\" | 需展示云门户和移动端功能 | 高 | | Q-011 | 🟡 | \"Secure communications (TLS/SSL), data encryption, and ISO 27001 compliance\" | 需提供安全合规证明 | 高 | | Q-012 | 🟡 | \"Open API for third-par",
+      "top_hits": [
+        {
+          "doc": "VanArsdel_RFP_Questions.md",
+          "section": "|------|------|---------|-------------|--------|",
+          "text": "| Q-009 | 🟡 | \"Support for wireless IoT sensors (temperature, occupancy, humidity, light, CO2)\" | 需确认传感器类型和技术规格 | 高 | | Q-010 | 🟡 | \"Cloud-based management portal with mobile access\" | 需展示云门户和移动端功能 | 高 | | Q-011 | 🟡 | \"Secure communications (TLS/SSL), data encryption, and ISO 27001 compliance\" | 需提供安全合规证明 | 高 | | Q-012 | 🟡 | \"Open API for third-party integrations\" | 需提供 API 文档和集成案例 | 高 | | Q-013 | 🟡 | \"Automated demand response and sustainability reporting features\" | 需展示需求响应和报告功能 | 中 |",
+          "score": 1.0,
+          "matched": [
+            "data",
+            "compliance",
+            "secure",
+            "communications",
+            "tls",
+            "iso 27001",
+            "encryption",
+            "ssl"
+          ]
+        },
+        {
+          "doc": "EcoSense_360_Technical_Specifications.docx",
+          "section": "2. System Architecture",
+          "text": "Core Components: EcoSense 360 Hub (central controller) Wireless IoT Sensors (temperature, occupancy, humidity, light) Smart Thermostats and Lighting Controllers Cloud Management Portal (web/mobile) API Gateway for third-party integrations Network Protocols: Zigbee, Wi-Fi 6, Bluetooth LE Secure TLS/SSL encryption for all device communications Supported Platforms: Windows, iOS, Android (mobile apps) Web browsers (Chrome, Edge, Safari)",
+          "score": 0.625,
+          "matched": [
+            "secure",
+            "communications",
+            "tls",
+            "encryption",
+            "ssl"
+          ]
+        },
+        {
+          "doc": "EcoSense_360_Technical_Specifications.txt",
+          "section": "2. System Architecture",
+          "text": "Secure TLS/SSL encryption for all device communications",
+          "score": 0.625,
+          "matched": [
+            "secure",
+            "communications",
+            "tls",
+            "encryption",
+            "ssl"
+          ]
+        }
+      ],
+      "answer_draft": "我司产品完全满足此项要求，具体如下：\n\n| Q-009 | 🟡 | \"Support for wireless IoT sensors (temperature, occupancy, humidity, light, CO2)\" | 需确认传感器类型和技术规格 | 高 | | Q-010 | 🟡 | \"Cloud-based management portal with mobile access\" | 需展示云门户和移动端功能 | 高 | | Q-011 | 🟡 | \"Secure communications (TLS/SSL), data encryption, and ISO 27001 compliance\" | 需提供"
+    },
+    {
+      "question_id": "Q-012",
+      "question_text": "Open API for third-party integrations.",
+      "question_type": "hard_req",
+      "keywords": [
+        "third-party",
+        "open",
+        "open api",
+        "integrations"
+      ],
+      "status": "full_match",
+      "status_icon": "✅",
+      "status_label": "完全匹配",
+      "source_doc": "VanArsdel_RFP_Questions.md",
+      "source_section": "|------|------|---------|-------------|--------|",
+      "best_quote": "| Q-009 | 🟡 | \"Support for wireless IoT sensors (temperature, occupancy, humidity, light, CO2)\" | 需确认传感器类型和技术规格 | 高 | | Q-010 | 🟡 | \"Cloud-based management portal with mobile access\" | 需展示云门户和移动端功能 | 高 | | Q-011 | 🟡 | \"Secure communications (TLS/SSL), data encryption, and ISO 27001 compliance\" | 需提供安全合规证明 | 高 | | Q-012 | 🟡 | \"Open API for third-par",
+      "top_hits": [
+        {
+          "doc": "VanArsdel_RFP_Questions.md",
+          "section": "|------|------|---------|-------------|--------|",
+          "text": "| Q-009 | 🟡 | \"Support for wireless IoT sensors (temperature, occupancy, humidity, light, CO2)\" | 需确认传感器类型和技术规格 | 高 | | Q-010 | 🟡 | \"Cloud-based management portal with mobile access\" | 需展示云门户和移动端功能 | 高 | | Q-011 | 🟡 | \"Secure communications (TLS/SSL), data encryption, and ISO 27001 compliance\" | 需提供安全合规证明 | 高 | | Q-012 | 🟡 | \"Open API for third-party integrations\" | 需提供 API 文档和集成案例 | 高 | | Q-013 | 🟡 | \"Automated demand response and sustainability reporting features\" | 需展示需求响应和报告功能 | 中 |",
+          "score": 1.0,
+          "matched": [
+            "third-party",
+            "open",
+            "open api",
+            "integrations"
+          ]
+        },
+        {
+          "doc": "EcoSense_360_Technical_Specifications.docx",
+          "section": "2. System Architecture",
+          "text": "Core Components: EcoSense 360 Hub (central controller) Wireless IoT Sensors (temperature, occupancy, humidity, light) Smart Thermostats and Lighting Controllers Cloud Management Portal (web/mobile) API Gateway for third-party integrations Network Protocols: Zigbee, Wi-Fi 6, Bluetooth LE Secure TLS/SSL encryption for all device communications Supported Platforms: Windows, iOS, Android (mobile apps) Web browsers (Chrome, Edge, Safari)",
+          "score": 0.5,
+          "matched": [
+            "third-party",
+            "integrations"
+          ]
+        },
+        {
+          "doc": "EcoSense_360_Technical_Specifications.txt",
+          "section": "2. System Architecture",
+          "text": "API Gateway for third-party integrations",
+          "score": 0.5,
+          "matched": [
+            "third-party",
+            "integrations"
+          ]
+        }
+      ],
+      "answer_draft": "我司产品完全满足此项要求，具体如下：\n\n| Q-009 | 🟡 | \"Support for wireless IoT sensors (temperature, occupancy, humidity, light, CO2)\" | 需确认传感器类型和技术规格 | 高 | | Q-010 | 🟡 | \"Cloud-based management portal with mobile access\" | 需展示云门户和移动端功能 | 高 | | Q-011 | 🟡 | \"Secure communications (TLS/SSL), data encryption, and ISO 27001 compliance\" | 需提供"
+    },
+    {
+      "question_id": "Q-013",
+      "question_text": "Automated demand response and sustainability reporting features.",
+      "question_type": "hard_req",
+      "keywords": [
+        "demand",
+        "reporting",
+        "sustainability",
+        "demand response",
+        "features",
+        "response",
+        "automated"
+      ],
+      "status": "full_match",
+      "status_icon": "✅",
+      "status_label": "完全匹配",
+      "source_doc": "VanArsdel_RFP_Questions.md",
+      "source_section": "|------|------|---------|-------------|--------|",
+      "best_quote": "| Q-009 | 🟡 | \"Support for wireless IoT sensors (temperature, occupancy, humidity, light, CO2)\" | 需确认传感器类型和技术规格 | 高 | | Q-010 | 🟡 | \"Cloud-based management portal with mobile access\" | 需展示云门户和移动端功能 | 高 | | Q-011 | 🟡 | \"Secure communications (TLS/SSL), data encryption, and ISO 27001 compliance\" | 需提供安全合规证明 | 高 | | Q-012 | 🟡 | \"Open API for third-par",
+      "top_hits": [
+        {
+          "doc": "VanArsdel_RFP_Questions.md",
+          "section": "|------|------|---------|-------------|--------|",
+          "text": "| Q-009 | 🟡 | \"Support for wireless IoT sensors (temperature, occupancy, humidity, light, CO2)\" | 需确认传感器类型和技术规格 | 高 | | Q-010 | 🟡 | \"Cloud-based management portal with mobile access\" | 需展示云门户和移动端功能 | 高 | | Q-011 | 🟡 | \"Secure communications (TLS/SSL), data encryption, and ISO 27001 compliance\" | 需提供安全合规证明 | 高 | | Q-012 | 🟡 | \"Open API for third-party integrations\" | 需提供 API 文档和集成案例 | 高 | | Q-013 | 🟡 | \"Automated demand response and sustainability reporting features\" | 需展示需求响应和报告功能 | 中 |",
+          "score": 1.0,
+          "matched": [
+            "demand",
+            "reporting",
+            "sustainability",
+            "demand response",
+            "features",
+            "response",
+            "automated"
+          ]
+        },
+        {
+          "doc": "EcoSense_360_Technical_Specifications.docx",
+          "section": "3. Key Features & Capabilities",
+          "text": "Real-Time Monitoring: Live dashboards for energy consumption, occupancy, and environmental metrics. Automated Controls: AI-driven scheduling and adaptive control of HVAC, lighting, and plug loads. Integration: Native support for major hotel PMS, Open RESTful API, BACnet/IP and Modbus compatibility. Reporting & Analytics: Customizable reports, predictive maintenance alerts, ROI calculators. Sustainability: LEED and ENERGY STAR compliance support, automated demand response participation.",
+          "score": 0.857,
+          "matched": [
+            "demand",
+            "reporting",
+            "sustainability",
+            "demand response",
+            "response",
+            "automated"
+          ]
+        },
+        {
+          "doc": "EcoSense_360_Technical_Specifications.txt",
+          "section": "3. Key Features & Capabilities",
+          "text": "Sustainability: LEED and ENERGY STAR compliance support, automated demand response participation.",
+          "score": 0.714,
+          "matched": [
+            "demand",
+            "sustainability",
+            "demand response",
+            "response",
+            "automated"
+          ]
+        }
+      ],
+      "answer_draft": "我司产品完全满足此项要求，具体如下：\n\n| Q-009 | 🟡 | \"Support for wireless IoT sensors (temperature, occupancy, humidity, light, CO2)\" | 需确认传感器类型和技术规格 | 高 | | Q-010 | 🟡 | \"Cloud-based management portal with mobile access\" | 需展示云门户和移动端功能 | 高 | | Q-011 | 🟡 | \"Secure communications (TLS/SSL), data encryption, and ISO 27001 compliance\" | 需提供"
+    },
+    {
+      "question_id": "Q-014",
+      "question_text": "Demonstrated experience in deploying energy management solutions for hospitality clients.",
+      "question_type": "qualification",
+      "keywords": [
+        "deploying",
+        "hospitality",
+        "solutions",
+        "management",
+        "demonstrated",
+        "energy",
+        "experience",
+        "clients"
+      ],
+      "status": "full_match",
+      "status_icon": "✅",
+      "status_label": "完全匹配",
+      "source_doc": "VanArsdel_RFP_Questions.md",
+      "source_section": "|------|------|---------|-------------|--------|",
+      "best_quote": "| Q-014 | 🔵 | \"Demonstrated experience in deploying energy management solutions for hospitality clients\" | 需准备酒店行业案例清单 | 高 | | Q-015 | 🔵 | \"References from at least three similar projects\" | **必须提供 3 个以上类似项目参考** | 高 | | Q-016 | 🔵 | \"Ability to provide ongoing support and maintenance\" | 需说明运维支持团队和能力 | 高 |",
+      "top_hits": [
+        {
+          "doc": "VanArsdel_RFP_Questions.md",
+          "section": "|------|------|---------|-------------|--------|",
+          "text": "| Q-014 | 🔵 | \"Demonstrated experience in deploying energy management solutions for hospitality clients\" | 需准备酒店行业案例清单 | 高 | | Q-015 | 🔵 | \"References from at least three similar projects\" | **必须提供 3 个以上类似项目参考** | 高 | | Q-016 | 🔵 | \"Ability to provide ongoing support and maintenance\" | 需说明运维支持团队和能力 | 高 |",
+          "score": 1.0,
+          "matched": [
+            "deploying",
+            "hospitality",
+            "solutions",
+            "management",
+            "demonstrated",
+            "energy",
+            "experience",
+            "clients"
+          ]
+        },
+        {
+          "doc": "EcoSense_360_Customer_Case_Study.docx",
+          "section": "Document",
+          "text": "EcoSense 360 Customer Case Study Transforming Energy Management at the Grand Vista Resort Background The Grand Vista Resort is a 200-room, midscale property located in Orlando, Florida, catering to both leisure and business travelers. Facing rising energy costs, sustainability mandates, and the need to enhance guest comfort, the resort’s management sought a modern solution to optimize energy usage and support their green initiatives. Challenges High and unpredictable energy expenses (over $250,000 annually) Inefficient HVAC and lighting controls leading to wasted energy Difficulty meeting sustainability certification requirements (LEED, ENERGY STAR) Need for real-time monitoring and actionable insights Solution: EcoSense 360 Implementation In early 2025, Grand Vista Resort partnered with Fabrikam to deploy the EcoSense 360 energy management platform. The solution included: Wireless IoT sensors for temperature, occupancy, humidity, and lighting Smart thermostats and automated lighting controls in all guest rooms and public areas Cloud-based management portal for real-time monitoring and analytics Integration with the property’s existing PMS and BMS systems Sustainability reporting tools for certification compliance Results & Impact Energy Savings & ROI Achieved a 32% reduction in annual energy costs (saving $80,000/year) Typical payback period: 2.5 years Operational Efficiency Automated controls reduced manual intervention by 80% Predictive maintenance alerts minimized equipment downtime Sustainability & Compliance Earned LEED Silver and ENERGY STAR certifications within 12 months Reduced carbon footprint by 110 metric tons/year Guest Experience Personalized room comfort settings increased guest satisfaction scores by 18% Real-time occupancy-based controls improved overall comfort and reduced complaints Key Metrics Testimonial \"EcoSense 360 has transformed our approach to energy management. We’ve cut costs, improved guest comfort, and achieved our sustainability goals faster than expected. The real-time insights and automation have made our operations more efficient and future-ready.\" — Jamie Lee, General Manager, Grand Vista Resort",
+          "score": 0.375,
+          "matched": [
+            "management",
+            "energy",
+            "experience"
+          ]
+        },
+        {
+          "doc": "EcoSense_360_Technical_Specifications.docx",
+          "section": "1. Product Overview",
+          "text": "EcoSense 360 is Fabrikam’s next-generation smart energy management platform designed for hotels, resorts, and hospitality venues. It integrates advanced IoT sensors, AI-driven analytics, and cloud-based controls to optimize energy usage, reduce costs, and support sustainability goals.",
+          "score": 0.375,
+          "matched": [
+            "hospitality",
+            "management",
+            "energy"
+          ]
+        }
+      ],
+      "answer_draft": "我司具备所需资质和经验，详情如下：\n\n| Q-014 | 🔵 | \"Demonstrated experience in deploying energy management solutions for hospitality clients\" | 需准备酒店行业案例清单 | 高 | | Q-015 | 🔵 | \"References from at least three similar projects\" | **必须提供 3 个以上类似项目参考** | 高 | | Q-016 | 🔵 | \"Ability to provide ongoing support and maintenance\" | 需说明运维支持团队和能力"
+    },
+    {
+      "question_id": "Q-015",
+      "question_text": "References from at least three similar projects.",
+      "question_type": "qualification",
+      "keywords": [
+        "similar",
+        "three",
+        "references",
+        "projects",
+        "least"
+      ],
+      "status": "full_match",
+      "status_icon": "✅",
+      "status_label": "完全匹配",
+      "source_doc": "VanArsdel_RFP_Questions.md",
+      "source_section": "|------|------|---------|-------------|--------|",
+      "best_quote": "| Q-014 | 🔵 | \"Demonstrated experience in deploying energy management solutions for hospitality clients\" | 需准备酒店行业案例清单 | 高 | | Q-015 | 🔵 | \"References from at least three similar projects\" | **必须提供 3 个以上类似项目参考** | 高 | | Q-016 | 🔵 | \"Ability to provide ongoing support and maintenance\" | 需说明运维支持团队和能力 | 高 |",
+      "top_hits": [
+        {
+          "doc": "VanArsdel_RFP_Questions.md",
+          "section": "|------|------|---------|-------------|--------|",
+          "text": "| Q-014 | 🔵 | \"Demonstrated experience in deploying energy management solutions for hospitality clients\" | 需准备酒店行业案例清单 | 高 | | Q-015 | 🔵 | \"References from at least three similar projects\" | **必须提供 3 个以上类似项目参考** | 高 | | Q-016 | 🔵 | \"Ability to provide ongoing support and maintenance\" | 需说明运维支持团队和能力 | 高 |",
+          "score": 1.0,
+          "matched": [
+            "similar",
+            "three",
+            "references",
+            "projects",
+            "least"
+          ]
+        },
+        {
+          "doc": "VanArsdel_RFP_Questions.md",
+          "section": "|------|------|---------|-------------|--------|",
+          "text": "| Q-019 | 🟢 | \"Technical compliance and innovation\" | 技术方案需突出创新点 | 中 | | Q-020 | 🟢 | \"Cost-effectiveness and ROI\" | 需提供投资回报分析 | 中 | | Q-021 | 🟢 | \"Vendor experience and references\" | 强化案例和参考客户展示 | 中 | | Q-022 | 🟢 | \"Support and training offerings\" | 详细说明支持和培训服务 | 中 | | Q-023 | 🟢 | \"Sustainability impact\" | 量化可持续性影响指标 | 中 |",
+          "score": 0.2,
+          "matched": [
+            "references"
+          ]
+        }
+      ],
+      "answer_draft": "我司具备所需资质和经验，详情如下：\n\n| Q-014 | 🔵 | \"Demonstrated experience in deploying energy management solutions for hospitality clients\" | 需准备酒店行业案例清单 | 高 | | Q-015 | 🔵 | \"References from at least three similar projects\" | **必须提供 3 个以上类似项目参考** | 高 | | Q-016 | 🔵 | \"Ability to provide ongoing support and maintenance\" | 需说明运维支持团队和能力"
+    },
+    {
+      "question_id": "Q-016",
+      "question_text": "Ability to provide ongoing support and maintenance.",
+      "question_type": "qualification",
+      "keywords": [
+        "maintenance",
+        "ability",
+        "ongoing"
+      ],
+      "status": "full_match",
+      "status_icon": "✅",
+      "status_label": "完全匹配",
+      "source_doc": "VanArsdel_RFP_Questions.md",
+      "source_section": "|------|------|---------|-------------|--------|",
+      "best_quote": "| Q-014 | 🔵 | \"Demonstrated experience in deploying energy management solutions for hospitality clients\" | 需准备酒店行业案例清单 | 高 | | Q-015 | 🔵 | \"References from at least three similar projects\" | **必须提供 3 个以上类似项目参考** | 高 | | Q-016 | 🔵 | \"Ability to provide ongoing support and maintenance\" | 需说明运维支持团队和能力 | 高 |",
+      "top_hits": [
+        {
+          "doc": "VanArsdel_RFP_Questions.md",
+          "section": "|------|------|---------|-------------|--------|",
+          "text": "| Q-014 | 🔵 | \"Demonstrated experience in deploying energy management solutions for hospitality clients\" | 需准备酒店行业案例清单 | 高 | | Q-015 | 🔵 | \"References from at least three similar projects\" | **必须提供 3 个以上类似项目参考** | 高 | | Q-016 | 🔵 | \"Ability to provide ongoing support and maintenance\" | 需说明运维支持团队和能力 | 高 |",
+          "score": 1.0,
+          "matched": [
+            "maintenance",
+            "ability",
+            "ongoing"
+          ]
+        },
+        {
+          "doc": "EcoSense_360_Customer_Case_Study.docx",
+          "section": "Document",
+          "text": "EcoSense 360 Customer Case Study Transforming Energy Management at the Grand Vista Resort Background The Grand Vista Resort is a 200-room, midscale property located in Orlando, Florida, catering to both leisure and business travelers. Facing rising energy costs, sustainability mandates, and the need to enhance guest comfort, the resort’s management sought a modern solution to optimize energy usage and support their green initiatives. Challenges High and unpredictable energy expenses (over $250,000 annually) Inefficient HVAC and lighting controls leading to wasted energy Difficulty meeting sustainability certification requirements (LEED, ENERGY STAR) Need for real-time monitoring and actionable insights Solution: EcoSense 360 Implementation In early 2025, Grand Vista Resort partnered with Fabrikam to deploy the EcoSense 360 energy management platform. The solution included: Wireless IoT sensors for temperature, occupancy, humidity, and lighting Smart thermostats and automated lighting controls in all guest rooms and public areas Cloud-based management portal for real-time monitoring and analytics Integration with the property’s existing PMS and BMS systems Sustainability reporting tools for certification compliance Results & Impact Energy Savings & ROI Achieved a 32% reduction in annual energy costs (saving $80,000/year) Typical payback period: 2.5 years Operational Efficiency Automated controls reduced manual intervention by 80% Predictive maintenance alerts minimized equipment downtime Sustainability & Compliance Earned LEED Silver and ENERGY STAR certifications within 12 months Reduced carbon footprint by 110 metric tons/year Guest Experience Personalized room comfort settings increased guest satisfaction scores by 18% Real-time occupancy-based controls improved overall comfort and reduced complaints Key Metrics Testimonial \"EcoSense 360 has transformed our approach to energy management. We’ve cut costs, improved guest comfort, and achieved our sustainability goals faster than expected. The real-time insights and automation have made our operations more efficient and future-ready.\" — Jamie Lee, General Manager, Grand Vista Resort",
+          "score": 0.667,
+          "matched": [
+            "maintenance",
+            "ability"
+          ]
+        },
+        {
+          "doc": "EcoSense_360_Technical_Specifications.docx",
+          "section": "3. Key Features & Capabilities",
+          "text": "Real-Time Monitoring: Live dashboards for energy consumption, occupancy, and environmental metrics. Automated Controls: AI-driven scheduling and adaptive control of HVAC, lighting, and plug loads. Integration: Native support for major hotel PMS, Open RESTful API, BACnet/IP and Modbus compatibility. Reporting & Analytics: Customizable reports, predictive maintenance alerts, ROI calculators. Sustainability: LEED and ENERGY STAR compliance support, automated demand response participation.",
+          "score": 0.667,
+          "matched": [
+            "maintenance",
+            "ability"
+          ]
+        }
+      ],
+      "answer_draft": "我司具备所需资质和经验，详情如下：\n\n| Q-014 | 🔵 | \"Demonstrated experience in deploying energy management solutions for hospitality clients\" | 需准备酒店行业案例清单 | 高 | | Q-015 | 🔵 | \"References from at least three similar projects\" | **必须提供 3 个以上类似项目参考** | 高 | | Q-016 | 🔵 | \"Ability to provide ongoing support and maintenance\" | 需说明运维支持团队和能力"
+    },
+    {
+      "question_id": "Q-017",
+      "question_text": "Submit proposals electronically in PDF or Word format.",
+      "question_type": "hard_req",
+      "keywords": [
+        "word",
+        "format",
+        "submit",
+        "proposals",
+        "electronically"
+      ],
+      "status": "full_match",
+      "status_icon": "✅",
+      "status_label": "完全匹配",
+      "source_doc": "VanArsdel_RFP_Questions.md",
+      "source_section": "|------|------|---------|-------------|--------|",
+      "best_quote": "| Q-017 | 🔴 | \"Include company overview, relevant experience, proposed solution, implementation timeline, and pricing\" | 提案需包含 5 部分：公司概况、相关经验、解决方案、实施时间表、定价 | 高 | | Q-018 | 🔵 | \"Submit proposals electronically in PDF or Word format\" | 需按指定格式提交 | 中 |",
+      "top_hits": [
+        {
+          "doc": "VanArsdel_RFP_Questions.md",
+          "section": "|------|------|---------|-------------|--------|",
+          "text": "| Q-017 | 🔴 | \"Include company overview, relevant experience, proposed solution, implementation timeline, and pricing\" | 提案需包含 5 部分：公司概况、相关经验、解决方案、实施时间表、定价 | 高 | | Q-018 | 🔵 | \"Submit proposals electronically in PDF or Word format\" | 需按指定格式提交 | 中 |",
+          "score": 1.0,
+          "matched": [
+            "word",
+            "format",
+            "submit",
+            "proposals",
+            "electronically"
+          ]
+        }
+      ],
+      "answer_draft": "我司产品完全满足此项要求，具体如下：\n\n| Q-017 | 🔴 | \"Include company overview, relevant experience, proposed solution, implementation timeline, and pricing\" | 提案需包含 5 部分：公司概况、相关经验、解决方案、实施时间表、定价 | 高 | | Q-018 | 🔵 | \"Submit proposals electronically in PDF or Word format\" | 需按指定格式提交 | 中 |"
+    },
+    {
+      "question_id": "Q-018",
+      "question_text": "Include company overview, relevant experience, proposed solution, implementation timeline, and pricing.",
+      "question_type": "hard_req",
+      "keywords": [
+        "proposed",
+        "overview",
+        "relevant",
+        "timeline",
+        "implementation",
+        "solution",
+        "pricing",
+        "experience",
+        "company"
+      ],
+      "status": "full_match",
+      "status_icon": "✅",
+      "status_label": "完全匹配",
+      "source_doc": "VanArsdel_RFP_Questions.md",
+      "source_section": "|------|------|---------|-------------|--------|",
+      "best_quote": "| Q-017 | 🔴 | \"Include company overview, relevant experience, proposed solution, implementation timeline, and pricing\" | 提案需包含 5 部分：公司概况、相关经验、解决方案、实施时间表、定价 | 高 | | Q-018 | 🔵 | \"Submit proposals electronically in PDF or Word format\" | 需按指定格式提交 | 中 |",
+      "top_hits": [
+        {
+          "doc": "VanArsdel_RFP_Questions.md",
+          "section": "|------|------|---------|-------------|--------|",
+          "text": "| Q-017 | 🔴 | \"Include company overview, relevant experience, proposed solution, implementation timeline, and pricing\" | 提案需包含 5 部分：公司概况、相关经验、解决方案、实施时间表、定价 | 高 | | Q-018 | 🔵 | \"Submit proposals electronically in PDF or Word format\" | 需按指定格式提交 | 中 |",
+          "score": 1.0,
+          "matched": [
+            "proposed",
+            "overview",
+            "relevant",
+            "timeline",
+            "implementation",
+            "solution",
+            "pricing",
+            "experience",
+            "company"
+          ]
+        },
+        {
+          "doc": "EcoSense_360_Customer_Case_Study.docx",
+          "section": "Document",
+          "text": "EcoSense 360 Customer Case Study Transforming Energy Management at the Grand Vista Resort Background The Grand Vista Resort is a 200-room, midscale property located in Orlando, Florida, catering to both leisure and business travelers. Facing rising energy costs, sustainability mandates, and the need to enhance guest comfort, the resort’s management sought a modern solution to optimize energy usage and support their green initiatives. Challenges High and unpredictable energy expenses (over $250,000 annually) Inefficient HVAC and lighting controls leading to wasted energy Difficulty meeting sustainability certification requirements (LEED, ENERGY STAR) Need for real-time monitoring and actionable insights Solution: EcoSense 360 Implementation In early 2025, Grand Vista Resort partnered with Fabrikam to deploy the EcoSense 360 energy management platform. The solution included: Wireless IoT sensors for temperature, occupancy, humidity, and lighting Smart thermostats and automated lighting controls in all guest rooms and public areas Cloud-based management portal for real-time monitoring and analytics Integration with the property’s existing PMS and BMS systems Sustainability reporting tools for certification compliance Results & Impact Energy Savings & ROI Achieved a 32% reduction in annual energy costs (saving $80,000/year) Typical payback period: 2.5 years Operational Efficiency Automated controls reduced manual intervention by 80% Predictive maintenance alerts minimized equipment downtime Sustainability & Compliance Earned LEED Silver and ENERGY STAR certifications within 12 months Reduced carbon footprint by 110 metric tons/year Guest Experience Personalized room comfort settings increased guest satisfaction scores by 18% Real-time occupancy-based controls improved overall comfort and reduced complaints Key Metrics Testimonial \"EcoSense 360 has transformed our approach to energy management. We’ve cut costs, improved guest comfort, and achieved our sustainability goals faster than expected. The real-time insights and automation have made our operations more efficient and future-ready.\" — Jamie Lee, General Manager, Grand Vista Resort",
+          "score": 0.333,
+          "matched": [
+            "implementation",
+            "solution",
+            "experience"
+          ]
+        },
+        {
+          "doc": "EcoSense_360_Customer_Case_Study.txt",
+          "section": "Document",
+          "text": "Solution: EcoSense 360 Implementation",
+          "score": 0.222,
+          "matched": [
+            "implementation",
+            "solution"
+          ]
+        }
+      ],
+      "answer_draft": "我司产品完全满足此项要求，具体如下：\n\n| Q-017 | 🔴 | \"Include company overview, relevant experience, proposed solution, implementation timeline, and pricing\" | 提案需包含 5 部分：公司概况、相关经验、解决方案、实施时间表、定价 | 高 | | Q-018 | 🔵 | \"Submit proposals electronically in PDF or Word format\" | 需按指定格式提交 | 中 |"
+    },
+    {
+      "question_id": "Q-019",
+      "question_text": "Technical compliance and innovation",
+      "question_type": "hard_req",
+      "keywords": [
+        "innovation",
+        "compliance",
+        "technical"
+      ],
+      "status": "full_match",
+      "status_icon": "✅",
+      "status_label": "完全匹配",
+      "source_doc": "VanArsdel_RFP_Questions.md",
+      "source_section": "|------|------|---------|-------------|--------|",
+      "best_quote": "| Q-019 | 🟢 | \"Technical compliance and innovation\" | 技术方案需突出创新点 | 中 | | Q-020 | 🟢 | \"Cost-effectiveness and ROI\" | 需提供投资回报分析 | 中 | | Q-021 | 🟢 | \"Vendor experience and references\" | 强化案例和参考客户展示 | 中 | | Q-022 | 🟢 | \"Support and training offerings\" | 详细说明支持和培训服务 | 中 | | Q-023 | 🟢 | \"Sustainability impact\" | 量化可持续性影响指标 | 中 |",
+      "top_hits": [
+        {
+          "doc": "VanArsdel_RFP_Questions.md",
+          "section": "|------|------|---------|-------------|--------|",
+          "text": "| Q-019 | 🟢 | \"Technical compliance and innovation\" | 技术方案需突出创新点 | 中 | | Q-020 | 🟢 | \"Cost-effectiveness and ROI\" | 需提供投资回报分析 | 中 | | Q-021 | 🟢 | \"Vendor experience and references\" | 强化案例和参考客户展示 | 中 | | Q-022 | 🟢 | \"Support and training offerings\" | 详细说明支持和培训服务 | 中 | | Q-023 | 🟢 | \"Sustainability impact\" | 量化可持续性影响指标 | 中 |",
+          "score": 1.0,
+          "matched": [
+            "innovation",
+            "compliance",
+            "technical"
+          ]
+        },
+        {
+          "doc": "EcoSense_360_Customer_Case_Study.docx",
+          "section": "Document",
+          "text": "EcoSense 360 Customer Case Study Transforming Energy Management at the Grand Vista Resort Background The Grand Vista Resort is a 200-room, midscale property located in Orlando, Florida, catering to both leisure and business travelers. Facing rising energy costs, sustainability mandates, and the need to enhance guest comfort, the resort’s management sought a modern solution to optimize energy usage and support their green initiatives. Challenges High and unpredictable energy expenses (over $250,000 annually) Inefficient HVAC and lighting controls leading to wasted energy Difficulty meeting sustainability certification requirements (LEED, ENERGY STAR) Need for real-time monitoring and actionable insights Solution: EcoSense 360 Implementation In early 2025, Grand Vista Resort partnered with Fabrikam to deploy the EcoSense 360 energy management platform. The solution included: Wireless IoT sensors for temperature, occupancy, humidity, and lighting Smart thermostats and automated lighting controls in all guest rooms and public areas Cloud-based management portal for real-time monitoring and analytics Integration with the property’s existing PMS and BMS systems Sustainability reporting tools for certification compliance Results & Impact Energy Savings & ROI Achieved a 32% reduction in annual energy costs (saving $80,000/year) Typical payback period: 2.5 years Operational Efficiency Automated controls reduced manual intervention by 80% Predictive maintenance alerts minimized equipment downtime Sustainability & Compliance Earned LEED Silver and ENERGY STAR certifications within 12 months Reduced carbon footprint by 110 metric tons/year Guest Experience Personalized room comfort settings increased guest satisfaction scores by 18% Real-time occupancy-based controls improved overall comfort and reduced complaints Key Metrics Testimonial \"EcoSense 360 has transformed our approach to energy management. We’ve cut costs, improved guest comfort, and achieved our sustainability goals faster than expected. The real-time insights and automation have made our operations more efficient and future-ready.\" — Jamie Lee, General Manager, Grand Vista Resort",
+          "score": 0.333,
+          "matched": [
+            "compliance"
+          ]
+        },
+        {
+          "doc": "EcoSense_360_Customer_Case_Study.txt",
+          "section": "Document",
+          "text": "Sustainability reporting tools for certification compliance",
+          "score": 0.333,
+          "matched": [
+            "compliance"
+          ]
+        }
+      ],
+      "answer_draft": "我司产品完全满足此项要求，具体如下：\n\n| Q-019 | 🟢 | \"Technical compliance and innovation\" | 技术方案需突出创新点 | 中 | | Q-020 | 🟢 | \"Cost-effectiveness and ROI\" | 需提供投资回报分析 | 中 | | Q-021 | 🟢 | \"Vendor experience and references\" | 强化案例和参考客户展示 | 中 | | Q-022 | 🟢 | \"Support and training offerings\" | 详细说明支持和培训服务 | 中 | | Q-023 | 🟢 | \"Sustainability im"
+    },
+    {
+      "question_id": "Q-020",
+      "question_text": "Cost-effectiveness and ROI",
+      "question_type": "expectation",
+      "keywords": [
+        "cost-effectiveness"
+      ],
+      "status": "full_match",
+      "status_icon": "✅",
+      "status_label": "完全匹配",
+      "source_doc": "VanArsdel_RFP_Questions.md",
+      "source_section": "|------|------|---------|-------------|--------|",
+      "best_quote": "| Q-019 | 🟢 | \"Technical compliance and innovation\" | 技术方案需突出创新点 | 中 | | Q-020 | 🟢 | \"Cost-effectiveness and ROI\" | 需提供投资回报分析 | 中 | | Q-021 | 🟢 | \"Vendor experience and references\" | 强化案例和参考客户展示 | 中 | | Q-022 | 🟢 | \"Support and training offerings\" | 详细说明支持和培训服务 | 中 | | Q-023 | 🟢 | \"Sustainability impact\" | 量化可持续性影响指标 | 中 |",
+      "top_hits": [
+        {
+          "doc": "VanArsdel_RFP_Questions.md",
+          "section": "|------|------|---------|-------------|--------|",
+          "text": "| Q-019 | 🟢 | \"Technical compliance and innovation\" | 技术方案需突出创新点 | 中 | | Q-020 | 🟢 | \"Cost-effectiveness and ROI\" | 需提供投资回报分析 | 中 | | Q-021 | 🟢 | \"Vendor experience and references\" | 强化案例和参考客户展示 | 中 | | Q-022 | 🟢 | \"Support and training offerings\" | 详细说明支持和培训服务 | 中 | | Q-023 | 🟢 | \"Sustainability impact\" | 量化可持续性影响指标 | 中 |",
+          "score": 1.0,
+          "matched": [
+            "cost-effectiveness"
+          ]
+        }
+      ],
+      "answer_draft": "我司在此方面的能力超出基本期望：\n\n| Q-019 | 🟢 | \"Technical compliance and innovation\" | 技术方案需突出创新点 | 中 | | Q-020 | 🟢 | \"Cost-effectiveness and ROI\" | 需提供投资回报分析 | 中 | | Q-021 | 🟢 | \"Vendor experience and references\" | 强化案例和参考客户展示 | 中 | | Q-022 | 🟢 | \"Support and training offerings\" | 详细说明支持和培训服务 | 中 | | Q-023 | 🟢 | \"Sustainability im"
+    },
+    {
+      "question_id": "Q-021",
+      "question_text": "Vendor experience and references",
+      "question_type": "qualification",
+      "keywords": [
+        "vendor",
+        "experience",
+        "references"
+      ],
+      "status": "full_match",
+      "status_icon": "✅",
+      "status_label": "完全匹配",
+      "source_doc": "VanArsdel_RFP_Questions.md",
+      "source_section": "|------|------|---------|-------------|--------|",
+      "best_quote": "| Q-019 | 🟢 | \"Technical compliance and innovation\" | 技术方案需突出创新点 | 中 | | Q-020 | 🟢 | \"Cost-effectiveness and ROI\" | 需提供投资回报分析 | 中 | | Q-021 | 🟢 | \"Vendor experience and references\" | 强化案例和参考客户展示 | 中 | | Q-022 | 🟢 | \"Support and training offerings\" | 详细说明支持和培训服务 | 中 | | Q-023 | 🟢 | \"Sustainability impact\" | 量化可持续性影响指标 | 中 |",
+      "top_hits": [
+        {
+          "doc": "VanArsdel_RFP_Questions.md",
+          "section": "|------|------|---------|-------------|--------|",
+          "text": "| Q-019 | 🟢 | \"Technical compliance and innovation\" | 技术方案需突出创新点 | 中 | | Q-020 | 🟢 | \"Cost-effectiveness and ROI\" | 需提供投资回报分析 | 中 | | Q-021 | 🟢 | \"Vendor experience and references\" | 强化案例和参考客户展示 | 中 | | Q-022 | 🟢 | \"Support and training offerings\" | 详细说明支持和培训服务 | 中 | | Q-023 | 🟢 | \"Sustainability impact\" | 量化可持续性影响指标 | 中 |",
+          "score": 1.0,
+          "matched": [
+            "vendor",
+            "experience",
+            "references"
+          ]
+        },
+        {
+          "doc": "VanArsdel_RFP_Questions.md",
+          "section": "|------|------|---------|-------------|--------|",
+          "text": "| Q-014 | 🔵 | \"Demonstrated experience in deploying energy management solutions for hospitality clients\" | 需准备酒店行业案例清单 | 高 | | Q-015 | 🔵 | \"References from at least three similar projects\" | **必须提供 3 个以上类似项目参考** | 高 | | Q-016 | 🔵 | \"Ability to provide ongoing support and maintenance\" | 需说明运维支持团队和能力 | 高 |",
+          "score": 0.667,
+          "matched": [
+            "experience",
+            "references"
+          ]
+        },
+        {
+          "doc": "EcoSense_360_Customer_Case_Study.docx",
+          "section": "Document",
+          "text": "EcoSense 360 Customer Case Study Transforming Energy Management at the Grand Vista Resort Background The Grand Vista Resort is a 200-room, midscale property located in Orlando, Florida, catering to both leisure and business travelers. Facing rising energy costs, sustainability mandates, and the need to enhance guest comfort, the resort’s management sought a modern solution to optimize energy usage and support their green initiatives. Challenges High and unpredictable energy expenses (over $250,000 annually) Inefficient HVAC and lighting controls leading to wasted energy Difficulty meeting sustainability certification requirements (LEED, ENERGY STAR) Need for real-time monitoring and actionable insights Solution: EcoSense 360 Implementation In early 2025, Grand Vista Resort partnered with Fabrikam to deploy the EcoSense 360 energy management platform. The solution included: Wireless IoT sensors for temperature, occupancy, humidity, and lighting Smart thermostats and automated lighting controls in all guest rooms and public areas Cloud-based management portal for real-time monitoring and analytics Integration with the property’s existing PMS and BMS systems Sustainability reporting tools for certification compliance Results & Impact Energy Savings & ROI Achieved a 32% reduction in annual energy costs (saving $80,000/year) Typical payback period: 2.5 years Operational Efficiency Automated controls reduced manual intervention by 80% Predictive maintenance alerts minimized equipment downtime Sustainability & Compliance Earned LEED Silver and ENERGY STAR certifications within 12 months Reduced carbon footprint by 110 metric tons/year Guest Experience Personalized room comfort settings increased guest satisfaction scores by 18% Real-time occupancy-based controls improved overall comfort and reduced complaints Key Metrics Testimonial \"EcoSense 360 has transformed our approach to energy management. We’ve cut costs, improved guest comfort, and achieved our sustainability goals faster than expected. The real-time insights and automation have made our operations more efficient and future-ready.\" — Jamie Lee, General Manager, Grand Vista Resort",
+          "score": 0.333,
+          "matched": [
+            "experience"
+          ]
+        }
+      ],
+      "answer_draft": "我司具备所需资质和经验，详情如下：\n\n| Q-019 | 🟢 | \"Technical compliance and innovation\" | 技术方案需突出创新点 | 中 | | Q-020 | 🟢 | \"Cost-effectiveness and ROI\" | 需提供投资回报分析 | 中 | | Q-021 | 🟢 | \"Vendor experience and references\" | 强化案例和参考客户展示 | 中 | | Q-022 | 🟢 | \"Support and training offerings\" | 详细说明支持和培训服务 | 中 | | Q-023 | 🟢 | \"Sustainability im"
+    },
+    {
+      "question_id": "Q-022",
+      "question_text": "Support and training offerings",
+      "question_type": "hard_req",
+      "keywords": [
+        "offerings",
+        "training"
+      ],
+      "status": "full_match",
+      "status_icon": "✅",
+      "status_label": "完全匹配",
+      "source_doc": "VanArsdel_RFP_Questions.md",
+      "source_section": "|------|------|---------|-------------|--------|",
+      "best_quote": "| Q-019 | 🟢 | \"Technical compliance and innovation\" | 技术方案需突出创新点 | 中 | | Q-020 | 🟢 | \"Cost-effectiveness and ROI\" | 需提供投资回报分析 | 中 | | Q-021 | 🟢 | \"Vendor experience and references\" | 强化案例和参考客户展示 | 中 | | Q-022 | 🟢 | \"Support and training offerings\" | 详细说明支持和培训服务 | 中 | | Q-023 | 🟢 | \"Sustainability impact\" | 量化可持续性影响指标 | 中 |",
+      "top_hits": [
+        {
+          "doc": "VanArsdel_RFP_Questions.md",
+          "section": "|------|------|---------|-------------|--------|",
+          "text": "| Q-019 | 🟢 | \"Technical compliance and innovation\" | 技术方案需突出创新点 | 中 | | Q-020 | 🟢 | \"Cost-effectiveness and ROI\" | 需提供投资回报分析 | 中 | | Q-021 | 🟢 | \"Vendor experience and references\" | 强化案例和参考客户展示 | 中 | | Q-022 | 🟢 | \"Support and training offerings\" | 详细说明支持和培训服务 | 中 | | Q-023 | 🟢 | \"Sustainability impact\" | 量化可持续性影响指标 | 中 |",
+          "score": 1.0,
+          "matched": [
+            "offerings",
+            "training"
+          ]
+        },
+        {
+          "doc": "EcoSense_360_Technical_Specifications.docx",
+          "section": "Document",
+          "text": "EcoSense 360 Energy Management Solution Technical Specifications Document For Training Purposes – Fictitious Data",
+          "score": 0.5,
+          "matched": [
+            "training"
+          ]
+        },
+        {
+          "doc": "EcoSense_360_Technical_Specifications.docx",
+          "section": "7. Deployment & Support",
+          "text": "Installation: On-site or remote commissioning, Plug-and-play sensor setup Support: 24/7 helpdesk, online knowledge base, remote diagnostics Training: Onboarding webinars, user manuals, video tutorials",
+          "score": 0.5,
+          "matched": [
+            "training"
+          ]
+        }
+      ],
+      "answer_draft": "我司产品完全满足此项要求，具体如下：\n\n| Q-019 | 🟢 | \"Technical compliance and innovation\" | 技术方案需突出创新点 | 中 | | Q-020 | 🟢 | \"Cost-effectiveness and ROI\" | 需提供投资回报分析 | 中 | | Q-021 | 🟢 | \"Vendor experience and references\" | 强化案例和参考客户展示 | 中 | | Q-022 | 🟢 | \"Support and training offerings\" | 详细说明支持和培训服务 | 中 | | Q-023 | 🟢 | \"Sustainability im"
+    },
+    {
+      "question_id": "Q-023",
+      "question_text": "Sustainability impact",
+      "question_type": "expectation",
+      "keywords": [
+        "sustainability",
+        "impact"
+      ],
+      "status": "full_match",
+      "status_icon": "✅",
+      "status_label": "完全匹配",
+      "source_doc": "EcoSense_360_Customer_Case_Study.docx",
+      "source_section": "Document",
+      "best_quote": "The solution included: Wireless IoT sensors for temperature, occupancy, humidity, and lighting Smart thermostats and automated lighting controls in all guest rooms and public areas Cloud-based management portal for real-time monitoring and analytics Integration with the property’s existing PMS and BMS systems Sustainability reporting tools for cert",
+      "top_hits": [
+        {
+          "doc": "EcoSense_360_Customer_Case_Study.docx",
+          "section": "Document",
+          "text": "EcoSense 360 Customer Case Study Transforming Energy Management at the Grand Vista Resort Background The Grand Vista Resort is a 200-room, midscale property located in Orlando, Florida, catering to both leisure and business travelers. Facing rising energy costs, sustainability mandates, and the need to enhance guest comfort, the resort’s management sought a modern solution to optimize energy usage and support their green initiatives. Challenges High and unpredictable energy expenses (over $250,000 annually) Inefficient HVAC and lighting controls leading to wasted energy Difficulty meeting sustainability certification requirements (LEED, ENERGY STAR) Need for real-time monitoring and actionable insights Solution: EcoSense 360 Implementation In early 2025, Grand Vista Resort partnered with Fabrikam to deploy the EcoSense 360 energy management platform. The solution included: Wireless IoT sensors for temperature, occupancy, humidity, and lighting Smart thermostats and automated lighting controls in all guest rooms and public areas Cloud-based management portal for real-time monitoring and analytics Integration with the property’s existing PMS and BMS systems Sustainability reporting tools for certification compliance Results & Impact Energy Savings & ROI Achieved a 32% reduction in annual energy costs (saving $80,000/year) Typical payback period: 2.5 years Operational Efficiency Automated controls reduced manual intervention by 80% Predictive maintenance alerts minimized equipment downtime Sustainability & Compliance Earned LEED Silver and ENERGY STAR certifications within 12 months Reduced carbon footprint by 110 metric tons/year Guest Experience Personalized room comfort settings increased guest satisfaction scores by 18% Real-time occupancy-based controls improved overall comfort and reduced complaints Key Metrics Testimonial \"EcoSense 360 has transformed our approach to energy management. We’ve cut costs, improved guest comfort, and achieved our sustainability goals faster than expected. The real-time insights and automation have made our operations more efficient and future-ready.\" — Jamie Lee, General Manager, Grand Vista Resort",
+          "score": 1.0,
+          "matched": [
+            "sustainability",
+            "impact"
+          ]
+        },
+        {
+          "doc": "VanArsdel_RFP_Questions.md",
+          "section": "|------|------|---------|-------------|--------|",
+          "text": "| Q-019 | 🟢 | \"Technical compliance and innovation\" | 技术方案需突出创新点 | 中 | | Q-020 | 🟢 | \"Cost-effectiveness and ROI\" | 需提供投资回报分析 | 中 | | Q-021 | 🟢 | \"Vendor experience and references\" | 强化案例和参考客户展示 | 中 | | Q-022 | 🟢 | \"Support and training offerings\" | 详细说明支持和培训服务 | 中 | | Q-023 | 🟢 | \"Sustainability impact\" | 量化可持续性影响指标 | 中 |",
+          "score": 1.0,
+          "matched": [
+            "sustainability",
+            "impact"
+          ]
+        },
+        {
+          "doc": "EcoSense_360_Customer_Case_Study.txt",
+          "section": "Document",
+          "text": "The Grand Vista Resort is a 200-room, midscale property located in Orlando, Florida, catering to both leisure and business travelers. Facing rising energy costs, sustainability mandates, and the need to enhance guest comfort, the resort’s management sought a modern solution to optimize energy usage and support their green initiatives.",
+          "score": 0.5,
+          "matched": [
+            "sustainability"
+          ]
+        }
+      ],
+      "answer_draft": "我司在此方面的能力超出基本期望：\n\nEcoSense 360 Customer Case Study Transforming Energy Management at the Grand Vista Resort Background The Grand Vista Resort is a 200-room, midscale property located in Orlando, Florida, catering to both leisure and business travelers. Facing rising energy costs, sustainability mandates, and the need"
+    }
+  ]
+}

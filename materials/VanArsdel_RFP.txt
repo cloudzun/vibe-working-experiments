@@ -1,0 +1,91 @@
+Request for Proposal (RFP)
+
+Issued by: VanArsdel, Ltd.
+
+Project: Smart Energy Management Solution for Hospitality Properties
+
+1. Introduction & Background
+
+VanArsdel, Ltd. is a leading OEM specializing in advanced solutions for the hospitality industry. We are seeking proposals from qualified vendors to provide a comprehensive smart energy management solution for our portfolio of hotels and resorts. The goal is to optimize energy usage, reduce operational costs, and support sustainability initiatives across our properties.
+
+2. Project Objectives
+
+Deploy a scalable energy management platform for hotels and resorts.
+
+Integrate IoT sensors, analytics, and automated controls for HVAC, lighting, and plug loads.
+
+Achieve measurable energy savings and support sustainability certifications (e.g., LEED, ENERGY STAR).
+
+Enable real-time monitoring, reporting, and predictive maintenance.
+
+3. Scope of Work
+
+Supply and install all necessary hardware and software.
+
+Integrate with existing property management and building management systems.
+
+Provide training and ongoing support for property staff.
+
+Ensure compliance with relevant industry standards and local regulations.
+
+4. Technical Requirements
+
+Support for wireless IoT sensors (temperature, occupancy, humidity, light, CO2).
+
+Cloud-based management portal with mobile access.
+
+Secure communications (TLS/SSL), data encryption, and ISO 27001 compliance.
+
+Open API for third-party integrations.
+
+Automated demand response and sustainability reporting features.
+
+5. Vendor Qualifications
+
+Demonstrated experience in deploying energy management solutions for hospitality clients.
+
+References from at least three similar projects.
+
+Ability to provide ongoing support and maintenance.
+
+6. Proposal Submission Instructions
+
+Submit proposals electronically in PDF or Word format.
+
+Include company overview, relevant experience, proposed solution, implementation timeline, and pricing.
+
+Deadline for submission: [Insert Date]
+
+Contact for questions: rfp@vanarsdelltd.com
+
+7. Evaluation Criteria
+
+Technical compliance and innovation
+
+Cost-effectiveness and ROI
+
+Vendor experience and references
+
+Support and training offerings
+
+Sustainability impact
+
+8. Terms & Conditions
+
+VanArsdel, Ltd. reserves the right to accept or reject any proposal.
+
+All submitted materials become the property of VanArsdel, Ltd.
+
+Final contract terms will be negotiated upon selection.
+
+9. Contact Information
+
+VanArsdel, Ltd.
+
+RFP Coordinator: Henry Ross
+
+Email: rfp@vanarsdelltd.com
+
+Phone: +1 (800) 555-5678
+
+Address: 1000 Innovation Drive, Chicago, IL 60601

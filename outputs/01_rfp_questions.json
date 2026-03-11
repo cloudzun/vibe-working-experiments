@@ -1,0 +1,268 @@
+{
+  "source_file": "materials\\VanArsdel_RFP.txt",
+  "extracted_at": "2026-03-09T20:04:11.318442",
+  "total": 23,
+  "questions": [
+    {
+      "id": "Q-001",
+      "type": "hard_req",
+      "type_icon": "🟡",
+      "type_label": "硬性要求",
+      "section": "2. Project Objectives",
+      "original": "Deploy a scalable energy management platform for hotels and resorts.",
+      "summary": "Deploy a scalable energy management platform for hotels and resorts.",
+      "hint": "需说明弹性扩展架构（多属性/跨地区）",
+      "priority": "高"
+    },
+    {
+      "id": "Q-002",
+      "type": "hard_req",
+      "type_icon": "🟡",
+      "type_label": "硬性要求",
+      "section": "2. Project Objectives",
+      "original": "Integrate IoT sensors, analytics, and automated controls for HVAC, lighting, and plug loads.",
+      "summary": "Integrate IoT sensors, analytics, and automated controls for HVAC, lighting, and plug loads.",
+      "hint": "需确认传感器类型、通讯协议及覆盖范围",
+      "priority": "高"
+    },
+    {
+      "id": "Q-003",
+      "type": "hard_req",
+      "type_icon": "🟡",
+      "type_label": "硬性要求",
+      "section": "2. Project Objectives",
+      "original": "Achieve measurable energy savings and support sustainability certifications (e.g., LEED, ENERGY STAR).",
+      "summary": "Achieve measurable energy savings and support sustainability certifications (e.g., LEED, ENERGY S…",
+      "hint": "需提供认证支持文档或已获认证案例",
+      "priority": "高"
+    },
+    {
+      "id": "Q-004",
+      "type": "hard_req",
+      "type_icon": "🟡",
+      "type_label": "硬性要求",
+      "section": "2. Project Objectives",
+      "original": "Enable real-time monitoring, reporting, and predictive maintenance.",
+      "summary": "Enable real-time monitoring, reporting, and predictive maintenance.",
+      "hint": "需说明技术支持体系、SLA 及运维团队",
+      "priority": "高"
+    },
+    {
+      "id": "Q-005",
+      "type": "hard_req",
+      "type_icon": "🟡",
+      "type_label": "硬性要求",
+      "section": "3. Scope of Work",
+      "original": "Supply and install all necessary hardware and software.",
+      "summary": "Supply and install all necessary hardware and software.",
+      "hint": "需明确承诺满足，并提供产品证据或功能截图",
+      "priority": "高"
+    },
+    {
+      "id": "Q-006",
+      "type": "hard_req",
+      "type_icon": "🟡",
+      "type_label": "硬性要求",
+      "section": "3. Scope of Work",
+      "original": "Integrate with existing property management and building management systems.",
+      "summary": "Integrate with existing property management and building management systems.",
+      "hint": "需说明与 PMS/BMS 系统的集成方案",
+      "priority": "高"
+    },
+    {
+      "id": "Q-007",
+      "type": "hard_req",
+      "type_icon": "🟡",
+      "type_label": "硬性要求",
+      "section": "3. Scope of Work",
+      "original": "Provide training and ongoing support for property staff.",
+      "summary": "Provide training and ongoing support for property staff.",
+      "hint": "需说明技术支持体系、SLA 及运维团队",
+      "priority": "高"
+    },
+    {
+      "id": "Q-008",
+      "type": "hard_req",
+      "type_icon": "🟡",
+      "type_label": "硬性要求",
+      "section": "3. Scope of Work",
+      "original": "Ensure compliance with relevant industry standards and local regulations.",
+      "summary": "Ensure compliance with relevant industry standards and local regulations.",
+      "hint": "需明确承诺满足，并提供产品证据或功能截图",
+      "priority": "高"
+    },
+    {
+      "id": "Q-009",
+      "type": "hard_req",
+      "type_icon": "🟡",
+      "type_label": "硬性要求",
+      "section": "4. Technical Requirements",
+      "original": "Support for wireless IoT sensors (temperature, occupancy, humidity, light, CO2).",
+      "summary": "Support for wireless IoT sensors (temperature, occupancy, humidity, light, CO2).",
+      "hint": "需确认传感器类型、通讯协议及覆盖范围",
+      "priority": "高"
+    },
+    {
+      "id": "Q-010",
+      "type": "hard_req",
+      "type_icon": "🟡",
+      "type_label": "硬性要求",
+      "section": "4. Technical Requirements",
+      "original": "Cloud-based management portal with mobile access.",
+      "summary": "Cloud-based management portal with mobile access.",
+      "hint": "需展示云平台架构和移动端功能截图",
+      "priority": "高"
+    },
+    {
+      "id": "Q-011",
+      "type": "hard_req",
+      "type_icon": "🟡",
+      "type_label": "硬性要求",
+      "section": "4. Technical Requirements",
+      "original": "Secure communications (TLS/SSL), data encryption, and ISO 27001 compliance.",
+      "summary": "Secure communications (TLS/SSL), data encryption, and ISO 27001 compliance.",
+      "hint": "需提供加密方案（传输层 + 静态数据）证明",
+      "priority": "高"
+    },
+    {
+      "id": "Q-012",
+      "type": "hard_req",
+      "type_icon": "🟡",
+      "type_label": "硬性要求",
+      "section": "4. Technical Requirements",
+      "original": "Open API for third-party integrations.",
+      "summary": "Open API for third-party integrations.",
+      "hint": "需提供 API 文档及第三方集成案例",
+      "priority": "高"
+    },
+    {
+      "id": "Q-013",
+      "type": "hard_req",
+      "type_icon": "🟡",
+      "type_label": "硬性要求",
+      "section": "4. Technical Requirements",
+      "original": "Automated demand response and sustainability reporting features.",
+      "summary": "Automated demand response and sustainability reporting features.",
+      "hint": "需展示报告模板和自定义分析功能",
+      "priority": "高"
+    },
+    {
+      "id": "Q-014",
+      "type": "qualification",
+      "type_icon": "🔵",
+      "type_label": "资质门槛",
+      "section": "5. Vendor Qualifications",
+      "original": "Demonstrated experience in deploying energy management solutions for hospitality clients.",
+      "summary": "Demonstrated experience in deploying energy management solutions for hospitality clients.",
+      "hint": "需提供酒店行业项目经验清单和案例",
+      "priority": "高"
+    },
+    {
+      "id": "Q-015",
+      "type": "qualification",
+      "type_icon": "🔵",
+      "type_label": "资质门槛",
+      "section": "5. Vendor Qualifications",
+      "original": "References from at least three similar projects.",
+      "summary": "References from at least three similar projects.",
+      "hint": "必须准备 3+ 个酒店类似项目参考联系人",
+      "priority": "高"
+    },
+    {
+      "id": "Q-016",
+      "type": "qualification",
+      "type_icon": "🔵",
+      "type_label": "资质门槛",
+      "section": "5. Vendor Qualifications",
+      "original": "Ability to provide ongoing support and maintenance.",
+      "summary": "Ability to provide ongoing support and maintenance.",
+      "hint": "需说明技术支持体系、SLA 及运维团队",
+      "priority": "高"
+    },
+    {
+      "id": "Q-017",
+      "type": "hard_req",
+      "type_icon": "🟡",
+      "type_label": "硬性要求",
+      "section": "6. Proposal Submission Instructions",
+      "original": "Submit proposals electronically in PDF or Word format.",
+      "summary": "Submit proposals electronically in PDF or Word format.",
+      "hint": "需明确承诺满足，并提供产品证据或功能截图",
+      "priority": "高"
+    },
+    {
+      "id": "Q-018",
+      "type": "hard_req",
+      "type_icon": "🟡",
+      "type_label": "硬性要求",
+      "section": "6. Proposal Submission Instructions",
+      "original": "Include company overview, relevant experience, proposed solution, implementation timeline, and pricing.",
+      "summary": "Include company overview, relevant experience, proposed solution, implementation timeline, and pr…",
+      "hint": "需提供酒店行业项目经验清单和案例",
+      "priority": "高"
+    },
+    {
+      "id": "Q-019",
+      "type": "hard_req",
+      "type_icon": "🟡",
+      "type_label": "硬性要求",
+      "section": "7. Evaluation Criteria",
+      "original": "Technical compliance and innovation",
+      "summary": "Technical compliance and innovation",
+      "hint": "需明确承诺满足，并提供产品证据或功能截图",
+      "priority": "高"
+    },
+    {
+      "id": "Q-020",
+      "type": "expectation",
+      "type_icon": "🟢",
+      "type_label": "期望描述",
+      "section": "7. Evaluation Criteria",
+      "original": "Cost-effectiveness and ROI",
+      "summary": "Cost-effectiveness and ROI",
+      "hint": "需提供 ROI 测算模型或过往节能数据",
+      "priority": "中"
+    },
+    {
+      "id": "Q-021",
+      "type": "qualification",
+      "type_icon": "🔵",
+      "type_label": "资质门槛",
+      "section": "7. Evaluation Criteria",
+      "original": "Vendor experience and references",
+      "summary": "Vendor experience and references",
+      "hint": "必须准备 3+ 个酒店类似项目参考联系人",
+      "priority": "高"
+    },
+    {
+      "id": "Q-022",
+      "type": "hard_req",
+      "type_icon": "🟡",
+      "type_label": "硬性要求",
+      "section": "7. Evaluation Criteria",
+      "original": "Support and training offerings",
+      "summary": "Support and training offerings",
+      "hint": "需说明技术支持体系、SLA 及运维团队",
+      "priority": "高"
+    },
+    {
+      "id": "Q-023",
+      "type": "expectation",
+      "type_icon": "🟢",
+      "type_label": "期望描述",
+      "section": "7. Evaluation Criteria",
+      "original": "Sustainability impact",
+      "summary": "Sustainability impact",
+      "hint": "需提供碳减排数据及可持续发展声明",
+      "priority": "中"
+    }
+  ],
+  "dependencies": [
+    "Q-006 依赖 Q-002（均涉及「API 集成」，答案应保持一致）",
+    "Q-013 依赖 Q-003（均涉及「可持续认证」，答案应保持一致）",
+    "Q-009 依赖 Q-002（均涉及「IoT 硬件」，答案应保持一致）",
+    "Q-013 依赖 Q-002（均涉及「能源控制 (HVAC/照明)」，答案应保持一致）",
+    "Q-004 依赖 Q-002（均涉及「报告与分析」，答案应保持一致）",
+    "Q-014 依赖 Q-003（均涉及「供应商资质」，答案应保持一致）"
+  ]
+}

@@ -1,0 +1,91 @@
+EcoSense 360 Energy Management Solution
+
+Technical Specifications Document
+
+For Training Purposes – Fictitious Data
+
+1. Product Overview
+
+EcoSense 360 is Fabrikam’s next-generation smart energy management platform designed for hotels, resorts, and hospitality venues. It integrates advanced IoT sensors, AI-driven analytics, and cloud-based controls to optimize energy usage, reduce costs, and support sustainability goals.
+
+2. System Architecture
+
+Core Components:
+
+EcoSense 360 Hub (central controller)
+
+Wireless IoT Sensors (temperature, occupancy, humidity, light)
+
+Smart Thermostats and Lighting Controllers
+
+Cloud Management Portal (web/mobile)
+
+API Gateway for third-party integrations
+
+Network Protocols:
+
+Zigbee, Wi-Fi 6, Bluetooth LE
+
+Secure TLS/SSL encryption for all device communications
+
+Supported Platforms:
+
+Windows, iOS, Android (mobile apps)
+
+Web browsers (Chrome, Edge, Safari)
+
+3. Key Features & Capabilities
+
+Real-Time Monitoring: Live dashboards for energy consumption, occupancy, and environmental metrics.
+
+Automated Controls: AI-driven scheduling and adaptive control of HVAC, lighting, and plug loads.
+
+Integration: Native support for major hotel PMS, Open RESTful API, BACnet/IP and Modbus compatibility.
+
+Reporting & Analytics: Customizable reports, predictive maintenance alerts, ROI calculators.
+
+Sustainability: LEED and ENERGY STAR compliance support, automated demand response participation.
+
+4. Technical Specifications
+
+5. Integration & Compatibility
+
+PMS Integration: Opera, Maestro, Protel, RoomKey PMS
+
+BMS Integration: Johnson Controls, Honeywell, Siemens
+
+Third-Party Devices: Philips Hue, Schneider Electric, Lutron
+
+6. Sustainability & Compliance
+
+Certifications: ENERGY STAR, LEED v4.1, Green Key
+
+Environmental Impact: Average energy savings: 18–25% per property; Carbon reduction: Up to 120 metric tons/year for a 200-room hotel
+
+7. Deployment & Support
+
+Installation: On-site or remote commissioning, Plug-and-play sensor setup
+
+Support: 24/7 helpdesk, online knowledge base, remote diagnostics
+
+Training: Onboarding webinars, user manuals, video tutorials
+
+8. Sample Use Cases
+
+Automated guest room energy optimization
+
+Predictive maintenance for HVAC systems
+
+Real-time occupancy-based lighting control
+
+Sustainability reporting for corporate ESG initiatives
+
+9. Contact Information
+
+Fabrikam Sales & Support
+
+Email: sales@fabrikam.com
+
+Phone: +1 (800) 555-3600
+
+Website: www.fabrikam.com/ecosense360

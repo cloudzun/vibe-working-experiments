@@ -1,0 +1,65 @@
+EcoSense 360 Customer Case Study
+
+Transforming Energy Management at the Grand Vista Resort
+
+Background
+
+The Grand Vista Resort is a 200-room, midscale property located in Orlando, Florida, catering to both leisure and business travelers. Facing rising energy costs, sustainability mandates, and the need to enhance guest comfort, the resort’s management sought a modern solution to optimize energy usage and support their green initiatives.
+
+Challenges
+
+High and unpredictable energy expenses (over $250,000 annually)
+
+Inefficient HVAC and lighting controls leading to wasted energy
+
+Difficulty meeting sustainability certification requirements (LEED, ENERGY STAR)
+
+Need for real-time monitoring and actionable insights
+
+Solution: EcoSense 360 Implementation
+
+In early 2025, Grand Vista Resort partnered with Fabrikam to deploy the EcoSense 360 energy management platform. The solution included:
+
+Wireless IoT sensors for temperature, occupancy, humidity, and lighting
+
+Smart thermostats and automated lighting controls in all guest rooms and public areas
+
+Cloud-based management portal for real-time monitoring and analytics
+
+Integration with the property’s existing PMS and BMS systems
+
+Sustainability reporting tools for certification compliance
+
+Results & Impact
+
+Energy Savings & ROI
+
+Achieved a 32% reduction in annual energy costs (saving $80,000/year)
+
+Typical payback period: 2.5 years
+
+Operational Efficiency
+
+Automated controls reduced manual intervention by 80%
+
+Predictive maintenance alerts minimized equipment downtime
+
+Sustainability & Compliance
+
+Earned LEED Silver and ENERGY STAR certifications within 12 months
+
+Reduced carbon footprint by 110 metric tons/year
+
+Guest Experience
+
+Personalized room comfort settings increased guest satisfaction scores by 18%
+
+Real-time occupancy-based controls improved overall comfort and reduced complaints
+
+Key Metrics
+
+Testimonial
+
+"EcoSense 360 has transformed our approach to energy management. We’ve cut costs, improved guest comfort, and achieved our sustainability goals faster than expected. The real-time insights and automation have made our operations more efficient and future-ready."
+
+— Jamie Lee, General Manager, Grand Vista Resort
